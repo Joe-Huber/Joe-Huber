@@ -1,16 +1,32 @@
-## Hi there 👋
+## ⋆౨ৎ˚⟡˖₊˚⊹  Joe Huber 😎⋆౨ৎ˚⟡˖₊˚⊹
+![](https://komarev.com/ghpvc/?username=joe-huber)
 
-<!--
-**Joe-Huber/Joe-Huber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Basic info
+- Location: Los Angeles & Evanston
+- Email: joseph.robert.huber@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### I like telling computers what to do - sometimes they listen :D
+
+
+## Github stats
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Joe-Huber)](https://git.io/streak-stats)
+
+Note - This is just from my public repositories, most work I do is in private repositories so it's not as accurate </3
+
+## Previous companies
+### PVNET 
+[PUT PVNET LOGO HERE]
+
+PVNet Technology Education Center, a non-profit community technology organization, provides South Bay residents with 
+quality technology education opportunities ranging from basic computer skills to visual arts classes for all ages from 
+10 to 104 and for all ability levels from novice to professional. We are constantly adding more STEM classes that are 
+commonly requested or needed in the community.
+
+Role - Intern
