@@ -79,7 +79,7 @@
 
 ### <a href="https://github.com/Joe-Huber/Text-Editor">Text Editor</a>
 <p>
-  <img src="docs/text-editor-logo.png" alt="Text Editor Logo" width="480" />
+  <img src="docs/text-editor-logo.png" alt="Text Editor Logo" width="150" />
 </p>
 <p>
   A lightweight text editor built with JavaFX featuring a custom document model (Document → Paragraph → Word → Character),
