@@ -18,8 +18,8 @@
 
 Note - This is just from my public repositories, most work I do is in private repositories so it's not as accurate </3
 
-# Previous companies
-## PVNET
+## Previous companies
+### PVNET
 <img src="docs/pvnet-logo.jpg" alt="PVNET Logo" />
 
 PVNet Technology Education Center, a non-profit community technology organization, provides South Bay residents with 
@@ -30,8 +30,26 @@ commonly requested or needed in the community.
 Role - Intern
 
 ### System1
-<img src="docs/system1-logo.webp" alt="PVNET Logo" />
+<img src="docs/system1-logo.webp" alt="System1 Logo" />
 
 System1 operates an industry-leading responsive acquisition marketing platform (RAMP) powered by AI & machine learning.
 
 Role - Quality Assurance Engineering Intern
+
+## Previous & Current Projects
+
+### [CopyPaste+](https://github.com/Joe-Huber/CopyPastePlus)
+<img src="docs/copypasteplus-banner.png" alt="CopyPaste+ Logo">
+Expand the functionality of copy/paste in Chrome. CopyPaste+ captures your copied text and gives you a history with 
+favorites and usage counts, available right from the toolbar popup.
+
+### [Cosmic Crashout](https://github.com/moonish1211/Cosmic-Crashout-Public)
+<img src="docs/cosmic-crashout-logo.png" alt="Cosmic Crashout Logo">
+
+Cosmic Crashout is a game that can be played by everyone, designed for quadriplegic individuals by utilizing the Open
+BCI EEG Headset. This is a project made by PVNet Advanced Technology Center.
+
+### [Text Editor](https://github.com/Joe-Huber/Text-Editor)
+<img src="docs/text-editor-logo.png" alt="Text Editor Logo">
+
+A lightweight text editor built with JavaFX featuring a custom document model (Document → Paragraph → Word → Character), a render pipeline, and a keyboard/mouse-driven cursor. This project is intended as a learning-focused editor with a clear separation between model, rendering, and UI.
