@@ -30,7 +30,7 @@
 
 ## 🏢 Previous companies
 
-### PVNET
+### <a href="https://www.pvnet.com/">PVNet</a>
 <p>
   <img src="docs/pvnet-logo.jpg" alt="PVNET Logo" width="160" />
 </p>
@@ -44,7 +44,7 @@
   <li><strong>Role:</strong> Intern</li>
 </ul>
 
-### System1
+### <a href="https://system1.com/">System1</a>
 <p>
   <img src="docs/system1-logo.webp" alt="System1 Logo" width="160" />
 </p>
