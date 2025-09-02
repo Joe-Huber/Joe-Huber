@@ -57,7 +57,7 @@
 
 ---
 
-## 🧩 Previous & Current Projects
+## 🧩 Projects
 
 ### <a href="https://github.com/Joe-Huber/CopyPastePlus">CopyPaste+</a>
 <p>
