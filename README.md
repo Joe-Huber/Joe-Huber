@@ -1,20 +1,29 @@
 <div align="center">
-  <h1>⋆౨ৎ˚⟡˖₊˚⊹  Joe Huber 😎 ⋆౨ৎ˚⟡˖₊˚⊹</h1>
-  <p><em>I like telling computers what to do - sometimes they listen :D</em></p>
+  <h1>Joe Huber</h1>
+  <p><em>I like telling computers what to do — sometimes they listen :D</em></p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=joe-huber&style=for-the-badge" alt="Profile views" />
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=joe-huber&style=for-the-badge" />
+    <img alt="Followers" src="https://img.shields.io/github/followers/Joe-Huber?style=for-the-badge&color=0e75b6" />
+    <img alt="Stars" src="https://img.shields.io/github/stars/Joe-Huber?style=for-the-badge&color=ffb000" />
   </p>
 </div>
 
+<p align="center">
+  <a href="#-about">About</a> •
+  <a href="#-github-stats">GitHub Stats</a> •
+  <a href="#-experience">Experience</a> •
+  <a href="#-projects">Projects</a>
+</p>
+
 ---
 
-## 🧭 Basic info
-- 📍 Location: Los Angeles & Evanston
+## 🧭 About
+- 📍 Los Angeles & Evanston
 - ✉️ Email: <a href="mailto:joseph.robert.huber@gmail.com">joseph.robert.huber@gmail.com</a>
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact" alt="Top Languages" height="160" />
@@ -24,65 +33,82 @@
   </a>
 </div>
 
-> Note — These reflect public repositories only; most of my work is in private repositories.
+> Note — These reflect public repositories only; most work is in private repositories.
 
 ---
 
-## 🏢 Previous companies
-
-### <a href="https://www.pvnet.com/">PVNet</a>
-<p>
-  <img src="docs/pvnet-logo.jpg" alt="PVNET Logo" width="160" />
-</p>
-<p>
-  PVNet Technology Education Center, a non-profit community technology organization, provides South Bay residents with
-  quality technology education opportunities ranging from basic computer skills to visual arts classes for all ages from
-  10 to 104 and for all ability levels from novice to professional. We are constantly adding more STEM classes that are
-  commonly requested or needed in the community.
-</p>
-<ul>
-  <li><strong>Role:</strong> Intern</li>
-</ul>
-
-### <a href="https://system1.com/">System1</a>
-<p>
-  <img src="docs/system1-logo.webp" alt="System1 Logo" width="160" />
-</p>
-<p>
-  System1 operates an industry-leading responsive acquisition marketing platform (RAMP) powered by AI & machine learning.
-</p>
-<ul>
-  <li><strong>Role:</strong> Quality Assurance Engineering Intern</li>
-</ul>
+## 🏢 Experience
+<table>
+  <tr>
+    <td width="140" align="center">
+      <img src="docs/pvnet-logo.jpg" alt="PVNet Logo" width="120" />
+    </td>
+    <td>
+      <h3><a href="https://www.pvnet.com/">PVNet Technology Education Center</a></h3>
+      <p>
+        PVNet is a non-profit community technology organization offering STEM education for ages 10–104, from novice to professional.
+      </p>
+      <ul>
+        <li><strong>Role:</strong> Intern</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="140" align="center">
+      <img src="docs/system1-logo.webp" alt="System1 Logo" width="120" />
+    </td>
+    <td>
+      <h3><a href="https://system1.com/">System1</a></h3>
+      <p>
+        System1 operates an industry-leading responsive acquisition marketing platform (RAMP) powered by AI and machine learning.
+      </p>
+      <ul>
+        <li><strong>Role:</strong> Quality Assurance Engineering Intern</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🧩 Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Joe-Huber/CopyPastePlus">
+        <img src="docs/copypasteplus-banner.png" alt="CopyPaste+" width="100%" />
+      </a>
+      <h3><a href="https://github.com/Joe-Huber/CopyPastePlus">CopyPaste+</a></h3>
+      <p>
+        Expand copy/paste in Chrome with a history, favorites, and usage counts — all from the toolbar popup.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/moonish1211/Cosmic-Crashout-Public">
+        <img src="docs/cosmic-crashout-logo.png" alt="Cosmic Crashout" width="100%" />
+      </a>
+      <h3><a href="https://github.com/moonish1211/Cosmic-Crashout-Public">Cosmic Crashout</a></h3>
+      <p>
+        An accessible game designed for quadriplegic players using the OpenBCI EEG headset. Built with PVNet Advanced Technology Center.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Joe-Huber/Text-Editor">
+        <img src="docs/text-editor-logo.png" alt="Text Editor" width="50%" />
+      </a>
+      <h3><a href="https://github.com/Joe-Huber/Text-Editor">Text Editor</a></h3>
+      <p>
+        A JavaFX learning-focused editor with a custom Document → Paragraph → Word → Character model and a clear render pipeline.
+      </p>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <p><a href="https://github.com/Joe-Huber?tab=repositories">Explore more repositories →</a></p>
+    </td>
+  </tr>
+</table>
 
-### <a href="https://github.com/Joe-Huber/CopyPastePlus">CopyPaste+</a>
-<p>
-  <img src="docs/copypasteplus-banner.png" alt="CopyPaste+ Logo" width="720" />
-</p>
-<p>
-  Expand the functionality of copy/paste in Chrome. CopyPaste+ captures your copied text and gives you a history with
-  favorites and usage counts, available right from the toolbar popup.
-</p>
+---
 
-### <a href="https://github.com/moonish1211/Cosmic-Crashout-Public">Cosmic Crashout</a>
-<p>
-  <img src="docs/cosmic-crashout-logo.png" alt="Cosmic Crashout Logo" width="480" />
-</p>
-<p>
-  Cosmic Crashout is a game that can be played by everyone, designed for quadriplegic individuals by utilizing the Open
-  BCI EEG Headset. This is a project made by PVNet Advanced Technology Center.
-</p>
-
-### <a href="https://github.com/Joe-Huber/Text-Editor">Text Editor</a>
-<p>
-  <img src="docs/text-editor-logo.png" alt="Text Editor Logo" width="150" />
-</p>
-<p>
-  A lightweight text editor built with JavaFX featuring a custom document model (Document → Paragraph → Word → Character),
-  a render pipeline, and a keyboard/mouse-driven cursor. This project is intended as a learning-focused editor with a clear
-  separation between model, rendering, and UI.
-</p>
+<p align="center">❤️</p>
