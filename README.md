@@ -2,9 +2,9 @@
   <h1>⋆౨ৎ˚⟡˖₊˚⊹  Joe Huber⋆౨ৎ˚⟡˖₊˚⊹  </h1>
   <p><em>I like telling computers what to do — sometimes they listen :D</em></p>
   <p>
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=joe-huber&style=for-the-badge" />
-    <img alt="Followers" src="https://img.shields.io/github/followers/Joe-Huber?style=for-the-badge&color=0e75b6" />
-    <img alt="Stars" src="https://img.shields.io/github/stars/Joe-Huber?style=for-the-badge&color=ffb000" />
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=joe-huber&style=for-the-badge&color=8A2BE2" />
+    <img alt="Followers" src="https://img.shields.io/github/followers/Joe-Huber?style=for-the-badge&color=8A2BE2" />
+    <img alt="Stars" src="https://img.shields.io/github/stars/Joe-Huber?style=for-the-badge&color=8A2BE2" />
   </p>
 </div>
 
@@ -17,19 +17,19 @@
 
 ---
 
-## 🧭 About
+## 💜 About
 - 📍 Los Angeles & Evanston
 - ✉️ Email: <a href="mailto:joseph.robert.huber@gmail.com">joseph.robert.huber@gmail.com</a>
 
 ---
 
-## 📊 GitHub Stats
+## 💜 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=midnight-purple" alt="Top Languages" height="160" />
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Joe-Huber" alt="GitHub Streak" height="160" />
+    <img src="https://streak-stats.demolab.com/?user=Joe-Huber&theme=violet-punch" alt="GitHub Streak" height="160" />
   </a>
 </div>
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🏢 Experience
+## 💜 Experience
 <table>
   <tr>
     <td width="140" align="center">
@@ -71,7 +71,7 @@
 
 ---
 
-## 🧩 Projects
+## 💜 Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -111,4 +111,4 @@
 
 ---
 
-<p align="center">❤️</p>
+<p align="center">💜</p>
