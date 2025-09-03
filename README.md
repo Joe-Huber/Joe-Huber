@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Joe Huber</h1>
+  <h1>⋆౨ৎ˚⟡˖₊˚⊹  Joe Huber⋆౨ৎ˚⟡˖₊˚⊹  </h1>
   <p><em>I like telling computers what to do — sometimes they listen :D</em></p>
   <p>
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=joe-huber&style=for-the-badge" />
