@@ -33,7 +33,7 @@
   </a>
 </div>
 
-> Note — These reflect public repositories only; most work is in private repositories.
+> Note: These reflect public repositories only; most work is in private repositories.
 
 ---
 
