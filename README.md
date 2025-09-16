@@ -41,20 +41,6 @@
 <table>
   <tr>
     <td width="140" align="center">
-      <img src="docs/pvnet-logo.jpg" alt="PVNet Logo" width="120" />
-    </td>
-    <td>
-      <h3><a href="https://www.pvnet.com/">PVNet Technology Education Center</a></h3>
-      <p>
-        PVNet is a non-profit community technology organization offering STEM education for ages 10–104, from novice to professional.
-      </p>
-      <ul>
-        <li><strong>Role:</strong> Intern</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="140" align="center">
       <img src="docs/system1-logo.webp" alt="System1 Logo" width="120" />
     </td>
     <td>
@@ -64,6 +50,20 @@
       </p>
       <ul>
         <li><strong>Role:</strong> Quality Assurance Engineering Intern</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="140" align="center">
+      <img src="docs/pvnet-logo.jpg" alt="PVNet Logo" width="120" />
+    </td>
+    <td>
+      <h3><a href="https://www.pvnet.com/">PVNet Technology Education Center</a></h3>
+      <p>
+        PVNet is a non-profit community technology organization offering STEM education for ages 10–104, from novice to professional.
+      </p>
+      <ul>
+        <li><strong>Role:</strong> Intern</li>
       </ul>
     </td>
   </tr>
