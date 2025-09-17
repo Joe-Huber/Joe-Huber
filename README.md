@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⋆౨ৎ˚⟡˖₊˚⊹  Joe Huber⋆౨ৎ˚⟡˖₊˚⊹  </h1>
+  <h1>⋆౨ৎ˚⟡˖₊˚⊹  Joe Huber ⋆౨ৎ˚⟡˖₊˚⊹</h1>
   <p><em>I like telling computers what to do — sometimes they listen :D</em></p>
   <p>
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=joe-huber&style=for-the-badge&color=8A2BE2" />
@@ -9,10 +9,10 @@
 </div>
 
 <p align="center">
-  <a href="#-about">About</a> •
-  <a href="#-github-stats">GitHub Stats</a> •
-  <a href="#-experience">Experience</a> •
-  <a href="#-projects">Projects</a>
+  <a href="#about">About</a> •
+  <a href="#github-stats">GitHub Stats</a> •
+  <a href="#experience">Experience</a> •
+  <a href="#projects">Projects</a>
 </p>
 
 ---
@@ -25,11 +25,11 @@
 
 ## 💜 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=midnight-purple" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="160" loading="lazy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=midnight-purple" alt="Top Languages" height="160" loading="lazy" />
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Joe-Huber&theme=violet-punch" alt="GitHub Streak" height="160" />
+    <img src="https://streak-stats.demolab.com/?user=Joe-Huber&theme=violet-punch" alt="GitHub Streak" height="160" loading="lazy" />
   </a>
 </div>
 
@@ -40,8 +40,8 @@
 ## 💜 Experience
 <table>
   <tr>
-    <td width="140" align="center">
-      <img src="docs/system1-logo.webp" alt="System1 Logo" width="120" />
+    <td width="140" align="center" valign="middle">
+      <img src="docs/system1-logo.webp" alt="System1 logo" width="120" loading="lazy" />
     </td>
     <td>
       <h3><a href="https://system1.com/">System1</a></h3>
@@ -54,8 +54,8 @@
     </td>
   </tr>
   <tr>
-    <td width="140" align="center">
-      <img src="docs/pvnet-logo.jpg" alt="PVNet Logo" width="120" />
+    <td width="140" align="center" valign="middle">
+      <img src="docs/pvnet-logo.jpg" alt="PVNet Technology Education Center logo" width="120" loading="lazy" />
     </td>
     <td>
       <h3><a href="https://www.pvnet.com/">PVNet Technology Education Center</a></h3>
@@ -76,7 +76,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Joe-Huber/CopyPastePlus">
-        <img src="docs/copypasteplus-banner.png" alt="CopyPaste+" width="100%" />
+        <img src="docs/copypasteplus-banner.png" alt="CopyPaste+ banner" width="100%" loading="lazy" />
       </a>
       <h3><a href="https://github.com/Joe-Huber/CopyPastePlus">CopyPaste+</a></h3>
       <p>
@@ -85,7 +85,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/moonish1211/Cosmic-Crashout-Public">
-        <img src="docs/cosmic-crashout-logo.png" alt="Cosmic Crashout" width="100%" />
+        <img src="docs/cosmic-crashout-logo.png" alt="Cosmic Crashout logo" width="100%" loading="lazy" />
       </a>
       <h3><a href="https://github.com/moonish1211/Cosmic-Crashout-Public">Cosmic Crashout</a></h3>
       <p>
@@ -96,7 +96,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Joe-Huber/Text-Editor">
-        <img src="docs/text-editor-logo.png" alt="Text Editor" width="50%" />
+        <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="100%" loading="lazy" />
       </a>
       <h3><a href="https://github.com/Joe-Huber/Text-Editor">Text Editor</a></h3>
       <p>
