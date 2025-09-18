@@ -109,7 +109,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Joe-Huber/Text-Editor">
-        <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="100%" loading="lazy" />
+        <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="50%" loading="lazy" style="display:block;margin:0 auto;" />
       </a>
       <h3><a href="https://github.com/Joe-Huber/Text-Editor">Text Editor</a></h3>
       <p>
