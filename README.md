@@ -63,11 +63,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" title="Cloudflare" />
   <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28" alt="AWS S3" title="AWS S3" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="28" alt="Snowflake" title="Snowflake" />
 
   <!-- AI & Assistants -->
   <img src="https://img.shields.io/badge/Claude-111?style=for-the-badge&logo=anthropic&logoColor=white" height="28" alt="Claude" title="Claude" />
   <img src="https://img.shields.io/badge/Gemini-0B57D0?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" alt="Gemini" title="Gemini" />
   <img src="https://img.shields.io/badge/Cursor-1A1F36?style=for-the-badge&logoColor=white" height="28" alt="Cursor" title="Cursor" />
+  <img src="https://img.shields.io/badge/Qodo-8A2BE2?style=for-the-badge" height="28" alt="Qodo" title="Qodo" />
 
 </div>
 
