@@ -30,7 +30,7 @@
 ---
 
 ## 💜 Tech Stack
-<div align="center">
+<div align="center" id="tech-stack">
   
   <!-- Languages -->
   <p>
@@ -93,7 +93,7 @@
 ## 💜 Experience
 <table>
   <tr>
-    <td width="140" align="center" valign="middle">
+    <td width="140" align="center" valign="middle" id="experience">
       <img src="docs/system1-logo.webp" alt="System1 logo" width="120" loading="lazy" />
     </td>
     <td>
@@ -127,7 +127,7 @@
 ## 💜 Projects
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" id="projects">
       <a href="https://github.com/Joe-Huber/CopyPastePlus">
         <img src="docs/copypasteplus-banner.png" alt="CopyPaste+ banner" width="100%" loading="lazy" />
       </a>
