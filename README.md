@@ -24,9 +24,8 @@
 
 ## 💜 About
 - 📍 Los Angeles & Evanston
+- 🎓 Freshman at Northwestern University
 - ✉️ Email: <a href="mailto:joseph.robert.huber@gmail.com">joseph.robert.huber@gmail.com</a>
-
-> Freshman at Northwestern University 💜
 
 ---
 
@@ -34,48 +33,57 @@
 <div align="center">
   
   <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="Typescript" title="Typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" title="MATLAB" />
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" title="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="36" alt="TypeScript" title="TypeScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="36" alt="MATLAB" title="MATLAB" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="36" alt="HTML5" title="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="36" alt="CSS3" title="CSS3" />
+  </p>
 
   <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/JavaFX-8A2BE2?style=for-the-badge" height="28" alt="JavaFX" title="JavaFX" />
-  <img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Pygame" title="Pygame" />
+  <p>
+    <img src="https://img.shields.io/badge/JavaFX-8A2BE2?style=for-the-badge" height="26" alt="JavaFX" title="JavaFX" />
+    <img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" height="26" alt="Pygame" title="Pygame" />
+  </p>
 
   <!-- Web & Runtime -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase" />
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" title="Next.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase" title="Supabase" />
+  </p>
 
   <!-- Tools & Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" height="40" alt="Chrome" title="Chrome Extensions" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" title="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" height="36" alt="Chrome Extensions" title="Chrome Extensions" />
+  </p>
 
   <!-- Testing & Automation -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" title="Selenium" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="Playwright" title="Playwright" />
-
-  <!-- IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="JetBrains" title="JetBrains" />
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="36" alt="Selenium" title="Selenium" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="36" alt="Playwright" title="Playwright" />
+  </p>
 
   <!-- Cloud -->
-  <!--- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" title="AWS" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" title="Cloudflare" />
-  <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28" alt="AWS S3" title="AWS S3" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="28" alt="Snowflake" title="Snowflake" />
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="36" alt="Cloudflare" title="Cloudflare" />
+    <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="26" alt="AWS S3" title="AWS S3" />
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="26" alt="Snowflake" title="Snowflake" />
+  </p>
 
   <!-- AI & Assistants -->
-  <img src="https://img.shields.io/badge/Claude-111?style=for-the-badge&logo=anthropic&logoColor=white" height="28" alt="Claude" title="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-0B57D0?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" alt="Gemini" title="Gemini" />
-  <img src="https://img.shields.io/badge/Cursor-1A1F36?style=for-the-badge&logoColor=white" height="28" alt="Cursor" title="Cursor" />
-  <img src="https://img.shields.io/badge/Qodo-8A2BE2?style=for-the-badge" height="28" alt="Qodo" title="Qodo" />
-
+  <p>
+    <img src="https://img.shields.io/badge/Claude-111?style=for-the-badge&logo=anthropic&logoColor=white" height="26" alt="Claude" title="Claude" />
+    <img src="https://img.shields.io/badge/Gemini-0B57D0?style=for-the-badge&logo=googlegemini&logoColor=white" height="26" alt="Gemini" title="Gemini" />
+    <img src="https://img.shields.io/badge/Cursor-1A1F36?style=for-the-badge&logoColor=white" height="26" alt="Cursor" title="Cursor" />
+    <img src="https://img.shields.io/badge/Qodo-8A2BE2?style=for-the-badge" height="26" alt="Qodo" title="Qodo" />
+  </p>
 </div>
 
 ---
@@ -178,7 +186,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joe-Huber&theme=github-compact&custom_title=Contribution%20Graph" alt="activity graph" />
 </div>
 
-> Note: These reflect public repositories only; most work is in private repositories.
+> Note: Stats reflect public repositories only. Third-party badges/images may be rate-limited by their providers.
 
 ---
 
