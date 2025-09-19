@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header" alt="header wave" />
 
-  <h1>⋆౨ৎ˚⟡˖₊˚⊹  Joe Huber ⋆౨ৎ˚⟡˖₊˚⊹</h1>
+  <h1>⋆౨ৎ˚⟡˖₊˚⊹ Joe Huber ⋆౨ৎ˚⟡˖₊˚⊹</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=5000&color=8A2BE2&center=true&width=435&lines=I+like+telling+computers+what+to+do+%E2%80%94+sometimes+they+listen!+%3AD" alt="Typing SVG" /></a>
 
