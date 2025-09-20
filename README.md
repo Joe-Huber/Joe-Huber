@@ -22,7 +22,7 @@
 
 ---
 
-## 💜 About
+<h2 id="about">💜 About</h2>
 - 📍 Los Angeles & Evanston
 - 🎓 Freshman at Northwestern University
 - ✉️ Email: <a href="mailto:joseph.robert.huber@gmail.com">joseph.robert.huber@gmail.com</a>
