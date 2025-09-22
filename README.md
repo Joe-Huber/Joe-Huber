@@ -166,7 +166,7 @@
   </tr>
 </table>
 
-<!-- Optional pinned repo cards -->
+<!-- Pinned repo cards -->
 <div align="center">
   <a href="https://github.com/Joe-Huber/CopyPastePlus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=midnight-purple" alt="CopyPaste+ pin" />
