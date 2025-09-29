@@ -87,6 +87,7 @@
   <p>
     <img src="https://img.shields.io/badge/Claude-111?style=for-the-badge&logo=anthropic&logoColor=white" height="26" alt="Claude" title="Claude" />
     <img src="https://img.shields.io/badge/Gemini-0B57D0?style=for-the-badge&logo=googlegemini&logoColor=white" height="26" alt="Gemini" title="Gemini" />
+    <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" height="26" alt="GitHub Copilot" title="GitHub Copilot" />
     <img src="https://img.shields.io/badge/Cursor-1A1F36?style=for-the-badge&logoColor=white" height="26" alt="Cursor" title="Cursor" />
     <img src="https://img.shields.io/badge/Qodo-8A2BE2?style=for-the-badge" height="26" alt="Qodo" title="Qodo" />
   </p>
