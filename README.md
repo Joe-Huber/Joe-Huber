@@ -27,7 +27,6 @@
 
 - 📍 Los Angeles & Evanston
 - 🎓 Freshman at Northwestern University
-- ✉️ Email: <a href="mailto:joseph.robert.huber@gmail.com">joseph.robert.huber@gmail.com</a>
 
 ---
 
@@ -38,6 +37,9 @@
   </a>
   <a href="https://github.com/Joe-Huber">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
+  </a>
+  <a href="mailto:joseph.robert.huber@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
