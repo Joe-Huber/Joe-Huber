@@ -39,7 +39,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
   </a>
   <a href="mailto:joseph.robert.huber@gmail.com">
-    <img src="https://api.iconify.design/mdi/email.svg" height="36" alt="Email" />
+    <img src="https://api.iconify.design/mdi/email.svg?color=8A2BE2" height="36" alt="Email" />
   </a>
 </p>
 
