@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="#about">About</a> •
+  <a href="#connect">Connect</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#experience">Experience</a> •
   <a href="#projects">Projects</a> •
@@ -27,6 +28,15 @@
 - 📍 Los Angeles & Evanston
 - 🎓 Freshman at Northwestern University
 - ✉️ Email: <a href="mailto:joseph.robert.huber@gmail.com">joseph.robert.huber@gmail.com</a>
+
+---
+
+<h2 id="connect">💜 Connect with me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joe-huber/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
