@@ -106,7 +106,7 @@
     <a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-0B57D0?style=for-the-badge&logo=googlegemini&logoColor=white" height="26" alt="Gemini" title="Gemini" /></a>
     <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" height="26" alt="GitHub Copilot" title="GitHub Copilot" /></a>
     <a href="https://cursor.sh/"><img src="https://img.shields.io/badge/Cursor-1A1F36?style=for-the-badge&logoColor=white" height="26" alt="Cursor" title="Cursor" /></a>
-    <a href="https://qodo.ai/"></a><img src="https://img.shields.io/badge/Qodo-8A2BE2?style=for-the-badge" height="26" alt="Qodo" title="Qodo" /></a>
+    <a href="https://qodo.ai/"><img src="https://img.shields.io/badge/Qodo-8A2BE2?style=for-the-badge" height="26" alt="Qodo" title="Qodo" /></a>
   </p>
 </div>
 
