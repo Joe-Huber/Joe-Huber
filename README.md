@@ -36,6 +36,9 @@
   <a href="https://www.linkedin.com/in/joe-huber-14a3a4316/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/Joe-Huber">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
+  </a>
 </p>
 
 ---
