@@ -33,8 +33,8 @@
 
 <h2 id="connect">💜 Connect with me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/joe-huber/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/joe-huber-14a3a4316/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn" />
   </a>
 </p>
 
