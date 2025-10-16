@@ -17,6 +17,7 @@
   <a href="#connect">Connect</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#experience">Experience</a> •
+  <a href="#education">Education</a> •
   <a href="#projects">Projects</a> •
   <a href="#stats">Stats</a>
 </p>
