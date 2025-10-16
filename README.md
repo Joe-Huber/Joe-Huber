@@ -17,6 +17,7 @@
   <a href="#connect">Connect</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#experience">Experience</a> •
+  <a href="#education">Education</a> •
   <a href="#projects">Projects</a> •
   <a href="#stats">Stats</a>
 </p>
@@ -139,6 +140,38 @@
       </p>
       <ul>
         <li><strong>Role:</strong> Intern</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 id="education">💜 Education</h2>
+<table>
+  <tr>
+    <td width="140" align="center" valign="middle">
+      <img src="docs/northwestern-logo.svg" alt="Northwestern University logo" width="120" loading="lazy" />
+    </td>
+    <td>
+      <h3><a href="https://www.northwestern.edu/">Northwestern University</a></h3>
+      <p>
+        McCormick School of Engineering
+      </p>
+      <ul>
+        <li><strong>Major:</strong> Computer Science BS/MS</li>
+        <li><strong>Expected Graduation Year:</strong> 2029</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="140" align="center" valign="middle">
+      <img src="docs/chadwick-logo.jpeg" alt="Chadwick School logo" width="120" loading="lazy" />
+    </td>
+    <td>
+      <h3><a href="https://www.chadwickschool.org/">Chadwick School</a></h3>
+      <ul>
+        <li><strong>Graduation Year:</strong> 2025</li>
       </ul>
     </td>
   </tr>
