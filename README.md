@@ -147,6 +147,41 @@
 
 ---
 
+<h2 id="education">💜 Education</h2>
+<table>
+  <tr>
+    <td width="140" align="center" valign="middle">
+      <!-- Northwestern Logo -->
+    </td>
+    <td>
+      <h3>College</h3>
+      <p>
+        <!-- Northwestern University -->
+      </p>
+      <ul>
+        <li><strong>Computer Science BS/MS</strong> <!-- Your Major --></li>
+        <li><strong>Expected Graduation Year: 2029</strong> <!-- Graduation Year --></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="140" align="center" valign="middle">
+      <!-- High School Logo -->
+    </td>
+    <td>
+      <h3>Chadwick High School</h3>
+      <p>
+        <!-- Chadwick High School -->
+      </p>
+      <ul>
+        <li><strong>Graduation Year: 2025</strong> <!-- Graduation Year --></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 💜 Projects
 <table>
   <tr>
