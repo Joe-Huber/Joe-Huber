@@ -151,30 +151,27 @@
 <table>
   <tr>
     <td width="140" align="center" valign="middle">
-      <!-- Northwestern Logo -->
+      <img src="docs/northwestern-logo.svg" alt="Northwestern University logo" width="120" loading="lazy" />
     </td>
     <td>
-      <h3>College</h3>
+      <h3><a href="https://www.northwestern.edu/">Northwestern University</a></h3>
       <p>
-        <!-- Northwestern University -->
+        McCormick School of Engineering
       </p>
       <ul>
-        <li><strong>Computer Science BS/MS</strong> <!-- Your Major --></li>
-        <li><strong>Expected Graduation Year: 2029</strong> <!-- Graduation Year --></li>
+        <li><strong>Major:</strong> Computer Science BS/MS</li>
+        <li><strong>Expected Graduation Year:</strong> 2029</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="140" align="center" valign="middle">
-      <!-- High School Logo -->
+      <img src="docs/chadwick-logo.jpeg" alt="Chadwick School logo" width="120" loading="lazy" />
     </td>
     <td>
-      <h3>Chadwick High School</h3>
-      <p>
-        <!-- Chadwick High School -->
-      </p>
+      <h3><a href="https://www.chadwickschool.org/">Chadwick School</a></h3>
       <ul>
-        <li><strong>Graduation Year: 2025</strong> <!-- Graduation Year --></li>
+        <li><strong>Graduation Year:</strong> 2025</li>
       </ul>
     </td>
   </tr>
