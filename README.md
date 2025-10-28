@@ -241,6 +241,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=discord&no-frame=true&row=1&margin-w=12" alt="trophies" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joe-Huber&theme=github-compact&custom_title=Contribution%20Graph" alt="activity graph" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Joe-Huber/Joe-Huber/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
 
 > Note: Stats reflect public repositories only. Third-party badges/images may be rate-limited by their providers.
