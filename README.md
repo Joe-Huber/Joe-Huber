@@ -258,7 +258,11 @@
     </picture>
   </a>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=discord&no-frame=true&row=1&margin-w=12" alt="trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=shades-of-purple&no-frame=true&row=1&margin-w=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=buefy&no-frame=true&row=1&margin-w=12" />
+    <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=buefy&no-frame=true&row=1&margin-w=12" />
+  </picture>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joe-Huber&theme=github-compact&custom_title=Contribution%20Graph" alt="activity graph" />
   <br/>
