@@ -221,16 +221,16 @@
 <div align="center">
   <a href="https://github.com/Joe-Huber/CopyPastePlus">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=midnight-purple" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=shades-of-purple" />
-      <img alt="CopyPaste+ pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=buefy" />
+      <img alt="CopyPaste+ pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=buefy" />
     </picture>
   </a>
   <a href="https://github.com/Joe-Huber/Text-Editor">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=midnight-purple" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=shades-of-purple" />
-      <img alt="Text Editor pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=buefy" />
+      <img alt="Text Editor pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=buefy" />
     </picture>
   </a>
 </div>
@@ -240,21 +240,21 @@
 ## 💜 Stats
 <div align="center" id="stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=midnight-purple" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=shades-of-purple" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=shades-of-purple" height="160" loading="lazy" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=shades-of-purple" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=buefy" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=buefy" height="160" loading="lazy" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=midnight-purple" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=shades-of-purple" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=shades-of-purple" height="160" loading="lazy" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=shades-of-purple" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=buefy" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=buefy" height="160" loading="lazy" />
   </picture>
   <br/>
   <a href="https://git.io/streak-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Joe-Huber&theme=violet-punch" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Joe-Huber&theme=shades-of-purple" />
-      <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Joe-Huber&theme=shades-of-purple" height="160" loading="lazy" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Joe-Huber&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Joe-Huber&theme=buefy" />
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Joe-Huber&theme=buefy" height="160" loading="lazy" />
     </picture>
   </a>
   <br/>
