@@ -242,7 +242,11 @@
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joe-Huber&theme=github-compact&custom_title=Contribution%20Graph" alt="activity graph" />
   <br/>
-  <!-- SNAKE GIF HERE -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joe-Huber/Joe-Huber/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joe-Huber/Joe-Huber/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joe-Huber/Joe-Huber/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 > Note: Stats reflect public repositories only. Third-party badges/images may be rate-limited by their providers.
