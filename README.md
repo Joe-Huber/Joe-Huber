@@ -7,7 +7,9 @@
 
   <p>
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=joe-huber&style=for-the-badge&color=8A2BE2" />
-    <img alt="Followers" src="https://img.shields.io/github/followers/Joe-Huber?style=for-the-badge&color=8A2BE2" />
+    <a href="https://github.com/Joe-Huber?tab=followers">
+      <img alt="Followers" src="https://img.shields.io/github/followers/Joe-Huber?style=for-the-badge&color=8A2BE2" />
+    </a>
     <img alt="Stars" src="https://img.shields.io/github/stars/Joe-Huber?style=for-the-badge&color=8A2BE2" />
   </p>
 </div>
