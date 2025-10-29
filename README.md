@@ -155,7 +155,9 @@
 <table>
   <tr>
     <td width="140" align="center" valign="middle">
-      <img src="docs/northwestern-logo.svg" alt="Northwestern University logo" width="120" loading="lazy" />
+      <a href="https://www.northwestern.edu/">
+        <img src="docs/northwestern-logo.svg" alt="Northwestern University logo" width="120" loading="lazy" />
+      </a>
     </td>
     <td>
       <h3><a href="https://www.northwestern.edu/">Northwestern University</a></h3>
@@ -170,7 +172,9 @@
   </tr>
   <tr>
     <td width="140" align="center" valign="middle">
-      <img src="docs/chadwick-logo.jpeg" alt="Chadwick School logo" width="120" loading="lazy" />
+      <a href="https://www.chadwickschool.org/">
+        <img src="docs/chadwick-logo.jpeg" alt="Chadwick School logo" width="120" loading="lazy" />
+      </a>
     </td>
     <td>
       <h3><a href="https://www.chadwickschool.org/">Chadwick School</a></h3>
