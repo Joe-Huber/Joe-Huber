@@ -220,10 +220,18 @@
 <!-- Pinned repo cards -->
 <div align="center">
   <a href="https://github.com/Joe-Huber/CopyPastePlus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=midnight-purple" alt="CopyPaste+ pin" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=buefy" />
+      <img alt="CopyPaste+ pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=buefy" />
+    </picture>
   </a>
   <a href="https://github.com/Joe-Huber/Text-Editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=midnight-purple" alt="Text Editor pin" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=buefy" />
+      <img alt="Text Editor pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=buefy" />
+    </picture>
   </a>
 </div>
 
@@ -231,14 +239,30 @@
 
 ## 💜 Stats
 <div align="center" id="stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="160" loading="lazy" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=midnight-purple" alt="Top Languages" height="160" loading="lazy" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=shades-of-purple" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=buefy" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=buefy" height="160" loading="lazy" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=shades-of-purple" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=buefy" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=buefy" height="160" loading="lazy" />
+  </picture>
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Joe-Huber&theme=violet-punch" alt="GitHub Streak" height="160" loading="lazy" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Joe-Huber&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Joe-Huber&theme=buefy" />
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Joe-Huber&theme=buefy" height="160" loading="lazy" />
+    </picture>
   </a>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=discord&no-frame=true&row=1&margin-w=12" alt="trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=aura&no-frame=true&row=1&margin-w=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=1&margin-w=12" />
+    <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=1&margin-w=12" />
+  </picture>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joe-Huber&theme=github-compact&custom_title=Contribution%20Graph" alt="activity graph" />
   <br/>
