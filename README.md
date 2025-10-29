@@ -117,7 +117,9 @@
 <table>
   <tr>
     <td width="140" align="center" valign="middle" id="experience">
-      <img src="docs/system1-logo.webp" alt="System1 logo" width="120" loading="lazy" />
+      <a href="https://system1.com/">
+        <img src="docs/system1-logo.webp" alt="System1 logo" width="120" loading="lazy" />
+      </a>
     </td>
     <td>
       <h3><a href="https://system1.com/">System1</a></h3>
@@ -131,7 +133,9 @@
   </tr>
   <tr>
     <td width="140" align="center" valign="middle">
-      <img src="docs/pvnet-logo.jpg" alt="PVNet Technology Education Center logo" width="120" loading="lazy" />
+      <a href="https://www.pvnet.com/">
+        <img src="docs/pvnet-logo.jpg" alt="PVNet Technology Education Center logo" width="120" loading="lazy" />
+      </a>
     </td>
     <td>
       <h3><a href="https://www.pvnet.com/">PVNet Technology Education Center</a></h3>
