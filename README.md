@@ -66,8 +66,8 @@
 
   <!-- Frameworks & Libraries -->
   <p>
-    <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring Framework" title="Spring Framework" /></a>
-    <a href="https://gradle.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="36" alt="Gradle" title="Gradle" /></a>
+    <!-- <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring Framework" title="Spring Framework" /></a> -->
+    <!-- <a href="https://gradle.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="36" alt="Gradle" title="Gradle" /></a> -->
     <a href="https://openjfx.io/"><img src="https://img.shields.io/badge/JavaFX-8A2BE2?style=for-the-badge" height="26" alt="JavaFX" title="JavaFX" /></a>
     <a href="https://www.pygame.org/"><img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" height="26" alt="Pygame" title="Pygame" /></a>
     <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="26" alt="Pandas" title="Pandas" /></a>
