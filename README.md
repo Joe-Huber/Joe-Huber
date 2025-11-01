@@ -49,69 +49,90 @@
 ---
 
 ## 💜 Tech Stack
-<div align="center" id="tech-stack">
-  
-  <!-- Languages -->
-  <p>
-    <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" title="Java" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" /></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="36" alt="TypeScript" title="TypeScript" /></a>
-    <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" /></a>
-    <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="36" alt="MATLAB" title="MATLAB" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="36" alt="HTML5" title="HTML5" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="36" alt="CSS3" title="CSS3" /></a>
-    <a href="https://racket-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/racket/racket-original.svg" height="36" alt="Racket" title="Racket" /></a>
-    <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="26" alt="SQL" title="SQL" /></a>
-  </p>
-
-  <!-- Frameworks & Libraries -->
-  <p>
-    <!-- <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring Framework" title="Spring Framework" /></a> -->
-    <!-- <a href="https://gradle.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="36" alt="Gradle" title="Gradle" /></a> -->
-    <a href="https://openjfx.io/"><img src="https://img.shields.io/badge/JavaFX-8A2BE2?style=for-the-badge" height="26" alt="JavaFX" title="JavaFX" /></a>
-    <a href="https://www.pygame.org/"><img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" height="26" alt="Pygame" title="Pygame" /></a>
-    <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="26" alt="Pandas" title="Pandas" /></a>
-    <a href="https://www.openapis.org/"><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="26" alt="OpenAPI" title="OpenAPI" /></a>
-  </p>
-
-  <!-- Web & Runtime -->
-  <p>
-    <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" /></a>
-    <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" title="Next.js" /></a>
-    <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" /></a>
-    <a href="https://supabase.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase" title="Supabase" /></a>
-  </p>
-
-  <!-- Tools & Platforms -->
-  <p>
-    <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" /></a>
-    <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" title="GitHub" /></a>
-    <a href="https://developer.chrome.com/extensions/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" height="36" alt="Chrome Extensions" title="Chrome Extensions" /></a>
-    <a href="https://www.jetbrains.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="36" alt="JetBrains" title="JetBrains" /></a>
-  </p>
-
-  <!-- Testing & Automation -->
-  <p>
-    <a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="36" alt="Selenium" title="Selenium" /></a>
-    <a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="36" alt="Playwright" title="Playwright" /></a>
-  </p>
-
-  <!-- Cloud -->
-  <p>
-    <a href="https://www.cloudflare.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="36" alt="Cloudflare" title="Cloudflare" /></a>
-    <a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="26" alt="AWS S3" title="AWS S3" /></a>
-    <a href="https://www.snowflake.com/"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="26" alt="Snowflake" title="Snowflake" /></a>
-  </p>
-
-  <!-- AI & Assistants -->
-  <p>
-    <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Claude-111?style=for-the-badge&logo=anthropic&logoColor=white" height="26" alt="Claude" title="Claude" /></a>
-    <a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-0B57D0?style=for-the-badge&logo=googlegemini&logoColor=white" height="26" alt="Gemini" title="Gemini" /></a>
-    <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" height="26" alt="GitHub Copilot" title="GitHub Copilot" /></a>
-    <a href="https://cursor.sh/"><img src="https://img.shields.io/badge/Cursor-1A1F36?style=for-the-badge&logoColor=white" height="26" alt="Cursor" title="Cursor" /></a>
-    <a href="https://qodo.ai/"><img src="https://img.shields.io/badge/Qodo-8A2BE2?style=for-the-badge" height="26" alt="Qodo" title="Qodo" /></a>
-  </p>
-</div>
+<table align="center" id="tech-stack">
+  <tr>
+    <td align="center" width="140">
+      <strong>Languages</strong>
+    </td>
+    <td>
+      <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" title="Java" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" /></a>
+      <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="36" alt="TypeScript" title="TypeScript" /></a>
+      <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" /></a>
+      <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="36" alt="MATLAB" title="MATLAB" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="36" alt="HTML5" title="HTML5" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="36" alt="CSS3" title="CSS3" /></a>
+      <a href="https://racket-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/racket/racket-original.svg" height="36" alt="Racket" title="Racket" /></a>
+      <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="26" alt="SQL" title="SQL" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Frameworks & Libraries</strong>
+    </td>
+    <td>
+      <!-- <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring Framework" title="Spring Framework" /></a> -->
+      <!-- <a href="https://gradle.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="36" alt="Gradle" title="Gradle" /></a> -->
+      <a href="https://openjfx.io/"><img src="https://img.shields.io/badge/JavaFX-8A2BE2?style=for-the-badge" height="26" alt="JavaFX" title="JavaFX" /></a>
+      <a href="https://www.pygame.org/"><img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" height="26" alt="Pygame" title="Pygame" /></a>
+      <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="26" alt="Pandas" title="Pandas" /></a>
+      <a href="https://www.openapis.org/"><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="26" alt="OpenAPI" title="OpenAPI" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Web Frontend & Runtime</strong>
+    </td>
+    <td>
+      <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" /></a>
+      <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" title="Next.js" /></a>
+      <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Tools & Platforms</strong>
+    </td>
+    <td>
+      <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" /></a>
+      <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" title="GitHub" /></a>
+      <a href="https://developer.chrome.com/extensions/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" height="36" alt="Chrome Extensions" title="Chrome Extensions" /></a>
+      <a href="https://www.jetbrains.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="36" alt="JetBrains" title="JetBrains" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Web scraping</strong>
+    </td>
+    <td>
+      <a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="36" alt="Selenium" title="Selenium" /></a>
+      <a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="36" alt="Playwright" title="Playwright" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Cloud</strong>
+    </td>
+    <td>
+      <a href="https://www.cloudflare.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="36" alt="Cloudflare" title="Cloudflare" /></a>
+      <a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="26" alt="AWS S3" title="AWS S3" /></a>
+      <a href="https://www.snowflake.com/"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="26" alt="Snowflake" title="Snowflake" /></a>
+      <a href="https://supabase.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase" title="Supabase" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>AI & Assistants</strong>
+    </td>
+    <td>
+      <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Claude-111?style=for-the-badge&logo=anthropic&logoColor=white" height="26" alt="Claude" title="Claude" /></a>
+      <a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-0B57D0?style=for-the-badge&logo=googlegemini&logoColor=white" height="26" alt="Gemini" title="Gemini" /></a>
+      <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" height="26" alt="GitHub Copilot" title="GitHub Copilot" /></a>
+      <a href="https://cursor.sh/"><img src="https://img.shields.io/badge/Cursor-1A1F36?style=for-the-badge&logoColor=white" height="26" alt="Cursor" title="Cursor" /></a>
+      <a href="https://qodo.ai/"><img src="https://img.shields.io/badge/Qodo-8A2BE2?style=for-the-badge" height="26" alt="Qodo" title="Qodo" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
