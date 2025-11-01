@@ -117,7 +117,7 @@
       <a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="36" alt="Cloudflare" title="Cloudflare" /></a>
       <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="26" alt="AWS S3" title="AWS S3" /></a>
       <a href="https://www.snowflake.com/" target="_blank"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="26" alt="Snowflake" title="Snowflake" /></a>
-      <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase" title="Supabase" /></a>
+      <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase" title="Supabase" /></a>
     </td>
   </tr>
   <tr>
