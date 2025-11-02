@@ -24,14 +24,14 @@
   <a href="#stats">Stats</a>
 </p>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTViYjNmYjZkYzA4Y2QwY2Q5MTY0YjhiY2ZhYjJkYjJlZDI0ZDA2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpYxK/giphy.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/img/hr.gif" width="100%" />
 
 <h2 id="about">💜 About</h2>
 
 - 📍 Los Angeles & Evanston
 - 🎓 Freshman at Northwestern University
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTViYjNmYjZkYzA4Y2QwY2Q5MTY0YjhiY2ZhYjJkYjJlZDI0ZDA2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpYxK/giphy.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/img/hr.gif" width="100%" />
 
 <h2 id="connect">💜 Connect with me</h2>
 <p align="center">
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTViYjNmYjZkYzA4Y2QwY2Q5MTY0YjhiY2ZhYjJkYjJlZDI0ZDA2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpYxK/giphy.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/img/hr.gif" width="100%" />
 
 ## 💜 Tech Stack
 <table align="center" id="tech-stack">
@@ -134,7 +134,7 @@
   </tr>
 </table>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTViYjNmYjZkYzA4Y2QwY2Q5MTY0YjhiY2ZhYjJkYjJlZDI0ZDA2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpYxK/giphy.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/img/hr.gif" width="100%" />
 
 ## 💜 Experience
 <table>
@@ -172,7 +172,7 @@
   </tr>
 </table>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTViYjNmYjZkYzA4Y2QwY2Q5MTY0YjhiY2ZhYjJkYjJlZDI0ZDA2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpYxK/giphy.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/img/hr.gif" width="100%" />
 
 <h2 id="education">💜 Education</h2>
 <table>
@@ -208,7 +208,7 @@
   </tr>
 </table>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTViYjNmYjZkYzA4Y2QwY2Q5MTY0YjhiY2ZhYjJkYjJlZDI0ZDA2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpYxK/giphy.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/img/hr.gif" width="100%" />
 
 ## 💜 Projects
 <table>
@@ -266,7 +266,7 @@
   </a>
 </div>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTViYjNmYjZkYzA4Y2QwY2Q5MTY0YjhiY2ZhYjJkYjJlZDI0ZDA2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpYxK/giphy.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/img/hr.gif" width="100%" />
 
 ## 💜 Stats
 <div align="center" id="stats">
@@ -306,7 +306,7 @@
 
 > Note: Stats reflect public repositories only. Third-party badges/images may be rate-limited by their providers.
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTViYjNmYjZkYzA4Y2QwY2Q5MTY0YjhiY2ZhYjJkYjJlZDI0ZDA2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpYxK/giphy.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/img/hr.gif" width="100%" />
 
 <p align="center">🫶💜</p>
 
