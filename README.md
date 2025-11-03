@@ -14,6 +14,23 @@
   </p>
 </div>
 
+<!-- Animated divider definition (SMIL, works on GitHub) -->
+<svg width="0" height="0" aria-hidden="true" focusable="false">
+  <defs>
+    <linearGradient id="purple-sheen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="-1" stop-color="#5B16A3">
+        <animate attributeName="offset" values="-1;1" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="0" stop-color="#8A2BE2">
+        <animate attributeName="offset" values="0;2" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="1" stop-color="#C084F5">
+        <animate attributeName="offset" values="1;3" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+</svg>
+
 <p align="center">
   <a href="#about">About</a> •
   <a href="#connect">Connect</a> •
@@ -24,14 +41,14 @@
   <a href="#stats">Stats</a>
 </p>
 
----
+<svg width="100%" height="6" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="animated purple divider"><rect x="0" y="0" width="100" height="1" fill="url(#purple-sheen)"><animate attributeName="x" from="-100" to="100" dur="3s" repeatCount="indefinite" /></rect></svg>
 
 <h2 id="about">💜 About</h2>
 
 - 📍 Los Angeles & Evanston
 - 🎓 Freshman at Northwestern University
 
----
+<svg width="100%" height="4" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="purple divider"><rect x="0" y="0" width="100" height="1" fill="#8A2BE2" /></svg>
 
 <h2 id="connect">💜 Connect with me</h2>
 <p align="center">
@@ -46,7 +63,7 @@
   </a>
 </p>
 
----
+<svg width="100%" height="4" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="purple divider"><rect x="0" y="0" width="100" height="1" fill="#8A2BE2" /></svg>
 
 ## 💜 Tech Stack
 <table align="center" id="tech-stack">
@@ -134,7 +151,7 @@
   </tr>
 </table>
 
----
+<svg width="100%" height="4" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="purple divider"><rect x="0" y="0" width="100" height="1" fill="#8A2BE2" /></svg>
 
 ## 💜 Experience
 <table>
@@ -172,7 +189,7 @@
   </tr>
 </table>
 
----
+<svg width="100%" height="4" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="purple divider"><rect x="0" y="0" width="100" height="1" fill="#8A2BE2" /></svg>
 
 <h2 id="education">💜 Education</h2>
 <table>
@@ -208,7 +225,7 @@
   </tr>
 </table>
 
----
+<svg width="100%" height="4" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="purple divider"><rect x="0" y="0" width="100" height="1" fill="#8A2BE2" /></svg>
 
 ## 💜 Projects
 <table>
@@ -266,7 +283,7 @@
   </a>
 </div>
 
----
+<svg width="100%" height="4" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="purple divider"><rect x="0" y="0" width="100" height="1" fill="#8A2BE2" /></svg>
 
 ## 💜 Stats
 <div align="center" id="stats">
@@ -306,7 +323,7 @@
 
 > Note: Stats reflect public repositories only. Third-party badges/images may be rate-limited by their providers.
 
----
+<svg width="100%" height="6" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="animated purple divider"><rect x="0" y="0" width="100" height="1" fill="url(#purple-sheen)"><animate attributeName="x" from="-100" to="100" dur="3s" repeatCount="indefinite" /></rect></svg>
 
 <p align="center">🫶💜</p>
 
