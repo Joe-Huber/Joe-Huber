@@ -41,7 +41,7 @@
   <a href="#stats">Stats</a>
 </p>
 
-<svg width="100%" height="6" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="animated purple divider"><rect x="0" y="0" width="100" height="1" fill="url(#purple-sheen)"><animate attributeName="x" from="-100" to="100" dur="3s" repeatCount="indefinite" /></rect></svg>
+<img src="docs/divider-animated.gif" alt="animated purple divider" width="100%" height="4" style="height:4px;" />
 
 <h2 id="about">💜 About</h2>
 
@@ -323,7 +323,7 @@
 
 > Note: Stats reflect public repositories only. Third-party badges/images may be rate-limited by their providers.
 
-<svg width="100%" height="6" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="animated purple divider"><rect x="0" y="0" width="100" height="1" fill="url(#purple-sheen)"><animate attributeName="x" from="-100" to="100" dur="3s" repeatCount="indefinite" /></rect></svg>
+<img src="docs/divider-animated.gif" alt="animated purple divider" width="100%" height="4" style="height:4px;" />
 
 <p align="center">🫶💜</p>
 
