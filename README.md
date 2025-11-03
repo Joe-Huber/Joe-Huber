@@ -48,7 +48,7 @@
 - 📍 Los Angeles & Evanston
 - 🎓 Freshman at Northwestern University
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
+<hr/>
 
 <h2 id="connect">💜 Connect with me</h2>
 <p align="center">
@@ -63,7 +63,7 @@
   </a>
 </p>
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
+<hr/>
 
 ## 💜 Tech Stack
 <table align="center" id="tech-stack">
@@ -151,7 +151,7 @@
   </tr>
 </table>
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
+<hr/>
 
 ## 💜 Experience
 <table>
@@ -189,7 +189,7 @@
   </tr>
 </table>
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
+<hr/>
 
 <h2 id="education">💜 Education</h2>
 <table>
@@ -283,7 +283,7 @@
   </a>
 </div>
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
+<hr/>
 
 ## 💜 Stats
 <div align="center" id="stats">
