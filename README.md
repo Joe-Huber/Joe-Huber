@@ -41,7 +41,7 @@
   <a href="#stats">Stats</a>
 </p>
 
-<img src="docs/divider-animated.gif" alt="animated purple divider" width="100%" height="4" style="height:4px;" />
+<img src="docs/divider-animated.gif" alt="animated purple divider" width="100%" height="8" style="height:8px;" />
 
 <h2 id="about">💜 About</h2>
 
@@ -323,7 +323,7 @@
 
 > Note: Stats reflect public repositories only. Third-party badges/images may be rate-limited by their providers.
 
-<img src="docs/divider-animated.gif" alt="animated purple divider" width="100%" height="4" style="height:4px;" />
+<img src="docs/divider-animated.gif" alt="animated purple divider" width="100%" height="8" style="height:8px;" />
 
 <p align="center">🫶💜</p>
 
