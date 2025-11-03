@@ -48,7 +48,7 @@
 - 📍 Los Angeles & Evanston
 - 🎓 Freshman at Northwestern University
 
-<svg width="100%" height="4" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="purple divider"><rect x="0" y="0" width="100" height="1" fill="#8A2BE2" /></svg>
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
 
 <h2 id="connect">💜 Connect with me</h2>
 <p align="center">
@@ -63,7 +63,7 @@
   </a>
 </p>
 
-<svg width="100%" height="4" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="purple divider"><rect x="0" y="0" width="100" height="1" fill="#8A2BE2" /></svg>
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
 
 ## 💜 Tech Stack
 <table align="center" id="tech-stack">
@@ -151,7 +151,7 @@
   </tr>
 </table>
 
-<svg width="100%" height="4" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="purple divider"><rect x="0" y="0" width="100" height="1" fill="#8A2BE2" /></svg>
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
 
 ## 💜 Experience
 <table>
@@ -189,7 +189,7 @@
   </tr>
 </table>
 
-<svg width="100%" height="4" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="purple divider"><rect x="0" y="0" width="100" height="1" fill="#8A2BE2" /></svg>
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
 
 <h2 id="education">💜 Education</h2>
 <table>
@@ -225,7 +225,7 @@
   </tr>
 </table>
 
-<svg width="100%" height="4" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="purple divider"><rect x="0" y="0" width="100" height="1" fill="#8A2BE2" /></svg>
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
 
 ## 💜 Projects
 <table>
@@ -283,7 +283,7 @@
   </a>
 </div>
 
-<svg width="100%" height="4" viewBox="0 0 100 1" preserveAspectRatio="none" role="img" aria-label="purple divider"><rect x="0" y="0" width="100" height="1" fill="#8A2BE2" /></svg>
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
 
 ## 💜 Stats
 <div align="center" id="stats">
