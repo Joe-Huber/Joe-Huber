@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="4" viewBox="0 0 1000 4" preserveAspectRatio="none" role="img" aria-label="animated purple divider">
+  <defs>
+    <!-- Base purple fill -->
+    <linearGradient id="base-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8A2BE2" />
+      <stop offset="100%" stop-color="#8A2BE2" />
+    </linearGradient>
+
+    <!-- Shimmer band gradient -->
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5B16A3" stop-opacity="0" />
+      <stop offset="40%" stop-color="#C084F5" stop-opacity="0.9" />
+      <stop offset="60%" stop-color="#C084F5" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#5B16A3" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Shimmer stripe pattern group sized to 200px width -->
+    <symbol id="shimmerStripe" viewBox="0 0 200 4" preserveAspectRatio="none">
+      <rect x="0" y="0" width="200" height="4" fill="url(#shimmer)" />
+    </symbol>
+  </defs>
+
+  <!-- Base line -->
+  <rect x="0" y="0" width="1000" height="4" fill="url(#base-purple)" />
+
+  <!-- Animated shimmer moving left to right -->
+  <g>
+    <use href="#shimmerStripe" x="-200" y="0">
+      <animate attributeName="x" from="-200" to="1000" dur="3s" repeatCount="indefinite" />
+    </use>
+  </g>
+</svg>
