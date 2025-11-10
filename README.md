@@ -46,7 +46,7 @@
 <h2 id="about">💜 About</h2>
 
 - Locates in Los Angeles & Evanston
-- Freshman at Northwestern University
+- First-year student at Northwestern University
 
 <hr/>
 
