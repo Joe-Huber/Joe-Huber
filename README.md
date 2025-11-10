@@ -47,6 +47,8 @@
 
 - Locates in Los Angeles & Evanston
 - First-year student at Northwestern University
+- Sometimes when I'm bored I add a new thing to this read me :D
+  - Sorry if that makes this kinda cluttered 😭
 
 <hr/>
 
