@@ -45,8 +45,8 @@
 
 <h2 id="about">💜 About</h2>
 
-- 📍 Los Angeles & Evanston
-- 🎓 Freshman at Northwestern University
+- Locates in Los Angeles & Evanston
+- Freshman at Northwestern University
 
 <hr/>
 
