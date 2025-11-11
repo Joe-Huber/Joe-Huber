@@ -32,7 +32,7 @@
 </svg>
 
 <p align="center">
-  <a href="#about">About</a> •
+  <a href="#about">About Me</a> •
   <a href="#connect">Connect</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#experience">Experience</a> •
