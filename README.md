@@ -43,7 +43,7 @@
 
 <img src="docs/divider-animated.gif" alt="animated purple divider" width="100%" height="16" style="height:16px;" />
 
-<h2 id="about">💜 About</h2>
+<h2 id="about">💜 About Me</h2>
 
 - Located in Los Angeles & Evanston
 - First-year student at **Northwestern University**
