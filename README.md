@@ -32,7 +32,7 @@
 </svg>
 
 <p align="center">
-  <a href="#about">About</a> •
+  <a href="#about">About Me</a> •
   <a href="#connect">Connect</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#experience">Experience</a> •
@@ -43,10 +43,11 @@
 
 <img src="docs/divider-animated.gif" alt="animated purple divider" width="100%" height="16" style="height:16px;" />
 
-<h2 id="about">💜 About</h2>
+<h2 id="about">💜 About Me</h2>
 
-- 📍 Los Angeles & Evanston
-- 🎓 Freshman at Northwestern University
+- Located in Los Angeles & Evanston
+- First-year student at **Northwestern University**
+- Sometimes when I'm bored I add a new thing to this read me :D
 
 <hr/>
 
