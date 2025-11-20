@@ -1,0 +1,19 @@
+name: Update README with Top Followers
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Update README with most followed followers
+        uses: Joe-Huber/my-most-followed-followers@v1 # Replace with your repo if you forked
+        with:
+          GITHUB_USER_NAME: ${{ github.repository_owner }}
+          MAX_FOLLOWER_COUNT: 10 # Optional: specify the number of followers to show

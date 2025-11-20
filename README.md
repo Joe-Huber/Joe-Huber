@@ -339,6 +339,9 @@ r&theme=aura&no-frame=true&row=1&margin-w=12" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joe-Huber&theme=github-compact&custom_title=Contribution%20Graph" alt="activity graph" />
   <br/>
+    <!-- FOLLOWERS_LIST_START -->
+    <!-- FOLLOWERS_LIST_END -->
+  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joe-Huber/Joe-Huber/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joe-Huber/Joe-Huber/output/github-contribution-grid-snake.svg" />
