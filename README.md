@@ -117,7 +117,9 @@
     </td>
     <td>
       <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" /></a>
-      <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" title="GitHub" style="height: 36px;" /></picture></a>
+      <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" style="height: 36px;" /></picture></a>
       <a href="https://developer.chrome.com/extensions/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" height="36" alt="Chrome Extensions" title="Chrome Extensions" /></a>
       <a href="https://www.jetbrains.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="36" alt="JetBrains" title="JetBrains" /></a>
     </td>
@@ -269,7 +271,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
           <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100%" alt="My Most Followed Followers icon" style="display:block;margin:0 auto;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="75%" alt="My Most Followed Followers icon" style="display:block;margin:0 auto;" />
         </picture>
       </a>
       <h3><a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">My Most Followed Followers</a></h3>
@@ -329,9 +331,9 @@
   </a>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=aura&no-frame=true&row=1&margin-w=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Hube
-r&theme=flat&no-frame=true&row=1&margin-w=12" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Hube
+r&theme=aura&no-frame=true&row=1&margin-w=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=1&margin-w=12" />
     <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=1&margin-w=12" />
   </picture>
   <br/>
