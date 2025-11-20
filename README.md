@@ -339,23 +339,14 @@ r&theme=aura&no-frame=true&row=1&margin-w=12" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joe-Huber&theme=github-compact&custom_title=Contribution%20Graph" alt="activity graph" />
   <br/>
-    <!-- FOLLOWERS_LIST_START -->
-### [My Most Famous Followers](https://github.com/Joe-Huber/my-most-followed-followers)
-| Profile | Name | Followers |
-|---|---|---|
-| <img src='https://avatars.githubusercontent.com/u/44704454?v=4' width='30' height='30'> | [AwesomeCoder412412](https://github.com/AwesomeCoder412412) | 9 |
-| <img src='https://avatars.githubusercontent.com/u/202472355?v=4' width='30' height='30'> | [macnmath](https://github.com/macnmath) | 2 |
-| <img src='https://avatars.githubusercontent.com/u/148095806?v=4' width='30' height='30'> | [KadenXu5001](https://github.com/KadenXu5001) | 1 |
-
-*Last updated: 2025-11-20 21:28:09 UTC*
-<!-- FOLLOWERS_LIST_END -->
-  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joe-Huber/Joe-Huber/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joe-Huber/Joe-Huber/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joe-Huber/Joe-Huber/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+<!-- FOLLOWERS_LIST_START -->
+<!-- FOLLOWERS_LIST_END -->
 
 > Note: Stats reflect public repositories only. Third-party badges/images may be rate-limited by their providers.
 
