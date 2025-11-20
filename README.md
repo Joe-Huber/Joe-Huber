@@ -264,8 +264,18 @@
         A JavaFX learning-focused editor with a custom Document → Paragraph → Word → Character model and a clear render pipeline.
       </p>
     </td>
-    <td width="50%" valign="middle" align="center">
-      <p><a href="https://github.com/Joe-Huber?tab=repositories" target="_blank" rel="noopener noreferrer">Explore more repositories →</a></p>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="100" alt="My Most Followed Followers icon" style="display:block;margin:0 auto;" />
+        </picture>
+      </a>
+      <h3><a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">My Most Followed Followers</a></h3>
+      <p>
+        A project to identify and display your most followed followers on GitHub.
+      </p>
     </td>
   </tr>
 </table>
@@ -284,6 +294,13 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=shades-of-purple" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=buefy" />
       <img alt="Text Editor pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=buefy" />
+    </picture>
+  </a>
+  <a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=buefy" />
+      <img alt="My Most Followed Followers pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=buefy" />
     </picture>
   </a>
 </div>
