@@ -269,7 +269,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
           <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="100" alt="My Most Followed Followers icon" style="display:block;margin:0 auto;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100%" alt="My Most Followed Followers icon" style="display:block;margin:0 auto;" />
         </picture>
       </a>
       <h3><a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">My Most Followed Followers</a></h3>
@@ -330,7 +330,8 @@
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=aura&no-frame=true&row=1&margin-w=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=1&margin-w=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Hube
+r&theme=flat&no-frame=true&row=1&margin-w=12" />
     <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=1&margin-w=12" />
   </picture>
   <br/>
