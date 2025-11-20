@@ -12,7 +12,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3
 
-      - name: Update README with most followed followers
+      - name: Most Followed Followers Action
         uses: Joe-Huber/my-most-followed-followers@v1 # Replace with your repo if you forked
         with:
           GITHUB_USER_NAME: ${{ github.repository_owner }}
