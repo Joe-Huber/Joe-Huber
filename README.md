@@ -243,7 +243,7 @@
     <summary>Expand to see my projects!</summary>
     <br/>
     <a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">
-      <img src="docs/copypasteplus-banner.png" alt="CopyPaste+ banner" width="100%" loading="lazy" />
+      <img src="docs/copypasteplus-banner.png" alt="CopyPaste+ banner" width="75%" loading="lazy" style="display:block;margin:0 auto;" />
     </a>
     <h3><a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">CopyPaste+</a></h3>
     <p>
@@ -251,7 +251,7 @@
     </p>
     <hr/>
     <a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">
-      <img src="docs/cosmic-crashout-logo.png" alt="Cosmic Crashout logo" width="100%" loading="lazy" />
+      <img src="docs/cosmic-crashout-logo.png" alt="Cosmic Crashout logo" width="75%" loading="lazy" style="display:block;margin:0 auto;" />
     </a>
     <h3><a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">Cosmic Crashout</a></h3>
     <p>
@@ -270,7 +270,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="75%" alt="My Most Followed Followers icon" style="display:block;margin:0 auto;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50%" alt="My Most Followed Followers icon" style="display:block;margin:0 auto;" />
       </picture>
     </a>
     <h3><a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">My Most Followed Followers</a></h3>
@@ -279,7 +279,7 @@
     </p>
     <hr/>
     <a href="https://github.com/Joe-Huber/a-pretty-bad-renderer" target="_blank" rel="noopener noreferrer">
-      <img src="docs/a-pretty-bad-renderer.png" alt="A Pretty Bad Renderer banner" width="100%" loading="lazy" />
+      <img src="docs/a-pretty-bad-renderer.png" alt="A Pretty Bad Renderer banner" width="75%" loading="lazy" style="display:block;margin:0 auto;" />
     </a>
     <h3><a href="https://github.com/Joe-Huber/a-pretty-bad-renderer" target="_blank" rel="noopener noreferrer">A Pretty Bad Renderer</a></h3>
     <p>
