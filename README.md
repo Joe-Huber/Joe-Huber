@@ -237,52 +237,56 @@
 <hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
 
 ## 💜 Projects
-<table>
-  <tr>
-    <td width="50%" valign="top" id="projects">
-      <a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">
-        <img src="docs/copypasteplus-banner.png" alt="CopyPaste+ banner" width="100%" loading="lazy" />
-      </a>
-      <h3><a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">CopyPaste+</a></h3>
-      <p>
-        Expand copy/paste in Chrome with a history, favorites, and usage counts — all from the toolbar popup.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">
-        <img src="docs/cosmic-crashout-logo.png" alt="Cosmic Crashout logo" width="100%" loading="lazy" />
-      </a>
-      <h3><a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">Cosmic Crashout</a></h3>
-      <p>
-        An accessible game designed for quadriplegic players using the OpenBCI EEG headset. Built with PVNet Advanced Technology Center.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">
-        <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="50%" loading="lazy" style="display:block;margin:0 auto;" />
-      </a>
-      <h3><a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">Text Editor</a></h3>
-      <p>
-        A JavaFX learning-focused editor with a custom Document → Paragraph → Word → Character model and a clear render pipeline.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
-          <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="75%" alt="My Most Followed Followers icon" style="display:block;margin:0 auto;" />
-        </picture>
-      </a>
-      <h3><a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">My Most Followed Followers</a></h3>
-      <p>
-        A project to identify and display your most followed followers on GitHub.
-      </p>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <details>
+    <summary>Expand to see my projects!</summary>
+    <br/>
+    <a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">
+      <img src="docs/copypasteplus-banner.png" alt="CopyPaste+ banner" width="100%" loading="lazy" />
+    </a>
+    <h3><a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">CopyPaste+</a></h3>
+    <p>
+      Expand copy/paste in Chrome with a history, favorites, and usage counts — all from the toolbar popup.
+    </p>
+    <hr/>
+    <a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">
+      <img src="docs/cosmic-crashout-logo.png" alt="Cosmic Crashout logo" width="100%" loading="lazy" />
+    </a>
+    <h3><a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">Cosmic Crashout</a></h3>
+    <p>
+      An accessible game designed for quadriplegic players using the OpenBCI EEG headset. Built with PVNet Advanced Technology Center.
+    </p>
+    <hr/>
+    <a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">
+      <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="50%" loading="lazy" style="display:block;margin:0 auto;" />
+    </a>
+    <h3><a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">Text Editor</a></h3>
+    <p>
+      A JavaFX learning-focused editor with a custom Document → Paragraph → Word → Character model and a clear render pipeline.
+    </p>
+    <hr/>
+    <a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="75%" alt="My Most Followed Followers icon" style="display:block;margin:0 auto;" />
+      </picture>
+    </a>
+    <h3><a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">My Most Followed Followers</a></h3>
+    <p>
+      A project to identify and display your most followed followers on GitHub.
+    </p>
+    <hr/>
+    <a href="https://github.com/Joe-Huber/a-pretty-bad-renderer" target="_blank" rel="noopener noreferrer">
+      <img src="docs/a-pretty-bad-renderer.png" alt="A Pretty Bad Renderer banner" width="100%" loading="lazy" />
+    </a>
+    <h3><a href="https://github.com/Joe-Huber/a-pretty-bad-renderer" target="_blank" rel="noopener noreferrer">A Pretty Bad Renderer</a></h3>
+    <p>
+      A simple image renderer in the terminal built in python.
+    </p>
+  </details>
+</div>
 
 <!-- Pinned repo cards -->
 <div align="center">
@@ -357,7 +361,7 @@ r&theme=aura&no-frame=true&row=1&margin-w=12" />
 | <img src='https://avatars.githubusercontent.com/u/202472355?v=4' width='30' height='30'> | [macnmath](https://github.com/macnmath) | 2 |
 | <img src='https://avatars.githubusercontent.com/u/148095806?v=4' width='30' height='30'> | [KadenXu5001](https://github.com/KadenXu5001) | 1 |
 
-*Last updated: 2025-12-05 01:43:15 UTC*
+*Last updated: 2025-12-04 01:42:52 UTC*
 <!-- FOLLOWERS_LIST_END -->
 
 > Note: Stats reflect public repositories only. Third-party badges/images may be rate-limited by their providers.
