@@ -98,6 +98,7 @@
       <a href="https://openjfx.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaFX-8A2BE2?style=for-the-badge" height="26" alt="JavaFX" title="JavaFX" /></a>
       <a href="https://www.pygame.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" height="26" alt="Pygame" title="Pygame" /></a>
       <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="26" alt="Pandas" title="Pandas" /></a>
+      <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="26" alt="NumPy" title="NumPy" /></a>
       <a href="https://www.openapis.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="26" alt="OpenAPI" title="OpenAPI" /></a>
     </td>
   </tr>
