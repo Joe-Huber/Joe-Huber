@@ -236,50 +236,53 @@
 
 <hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
 
-## 💜 Projects
-<table>
+<h2 id="projects">💜 Projects</h2>
+
+<table align="center">
   <tr>
-    <td width="50%" valign="top" id="projects">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">
         <img src="docs/copypasteplus-banner.png" alt="CopyPaste+ banner" width="100%" loading="lazy" />
+        <h3>CopyPaste+</h3>
       </a>
-      <h3><a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">CopyPaste+</a></h3>
-      <p>
-        Expand copy/paste in Chrome with a history, favorites, and usage counts — all from the toolbar popup.
-      </p>
+      <p>Expand copy/paste in Chrome with a history, favorites, and usage counts — all from the toolbar popup.</p>
     </td>
-    <td width="50%" valign="top">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">
         <img src="docs/cosmic-crashout-logo.png" alt="Cosmic Crashout logo" width="100%" loading="lazy" />
+        <h3>Cosmic Crashout</h3>
       </a>
-      <h3><a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">Cosmic Crashout</a></h3>
-      <p>
-        An accessible game designed for quadriplegic players using the OpenBCI EEG headset. Built with PVNet Advanced Technology Center.
-      </p>
+      <p>An accessible game designed for quadriplegic players using the OpenBCI EEG headset. Built with PVNet Advanced Technology Center.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">
+        <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="100%" loading="lazy" />
+        <h3>Text Editor</h3>
+      </a>
+      <p>A JavaFX learning-focused editor with a custom Document → Paragraph → Word → Character model and a clear render pipeline.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">
-        <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="50%" loading="lazy" style="display:block;margin:0 auto;" />
-      </a>
-      <h3><a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">Text Editor</a></h3>
-      <p>
-        A JavaFX learning-focused editor with a custom Document → Paragraph → Word → Character model and a clear render pipeline.
-      </p>
-    </td>
-    <td width="50%" valign="top">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
           <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="75%" alt="My Most Followed Followers icon" style="display:block;margin:0 auto;" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50%" alt="My Most Followed Followers icon" />
         </picture>
+        <h3>My Most Followed Followers</h3>
       </a>
-      <h3><a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">My Most Followed Followers</a></h3>
-      <p>
-        A project to identify and display your most followed followers on GitHub.
-      </p>
+      <p>A project to identify and display your most followed followers on GitHub.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/a-pretty-bad-renderer" target="_blank" rel="noopener noreferrer">
+        <img src="docs/a-pretty-bad-renderer.png" alt="A Pretty Bad Renderer banner" width="100%" loading="lazy" />
+        <h3>A Pretty Bad Renderer</h3>
+      </a>
+      <p>A simple image renderer in the terminal built in python.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <!-- Placeholder for another project -->
     </td>
   </tr>
 </table>
@@ -291,6 +294,13 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=shades-of-purple" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=buefy" />
       <img alt="CopyPaste+ pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=buefy" />
+    </picture>
+  </a>
+  <a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=moonish1211&repo=Cosmic-Crashout-Public&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=moonish1211&repo=Cosmic-Crashout-Public&theme=buefy" />
+      <img alt="Cosmic Crashout pin" src="https://github-readme-stats.vercel.app/api/pin/?username=moonish1211&repo=Cosmic-Crashout-Public&theme=buefy" />
     </picture>
   </a>
   <a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">
@@ -305,6 +315,13 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=shades-of-purple" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=buefy" />
       <img alt="My Most Followed Followers pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=buefy" />
+    </picture>
+  </a>
+  <a href="https://github.com/Joe-Huber/a-pretty-bad-renderer" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=buefy" />
+      <img alt="A Pretty Bad Renderer pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=buefy" />
     </picture>
   </a>
 </div>
