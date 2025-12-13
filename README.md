@@ -296,6 +296,13 @@
       <img alt="CopyPaste+ pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=buefy" />
     </picture>
   </a>
+  <a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=moonish1211&repo=Cosmic-Crashout-Public&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=moonish1211&repo=Cosmic-Crashout-Public&theme=buefy" />
+      <img alt="Cosmic Crashout pin" src="https://github-readme-stats.vercel.app/api/pin/?username=moonish1211&repo=Cosmic-Crashout-Public&theme=buefy" />
+    </picture>
+  </a>
   <a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=shades-of-purple" />
@@ -308,6 +315,13 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=shades-of-purple" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=buefy" />
       <img alt="My Most Followed Followers pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=buefy" />
+    </picture>
+  </a>
+  <a href="https://github.com/Joe-Huber/a-pretty-bad-renderer" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=buefy" />
+      <img alt="A Pretty Bad Renderer pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=buefy" />
     </picture>
   </a>
 </div>
