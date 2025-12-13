@@ -236,57 +236,56 @@
 
 <hr style="border:none;border-top:2px solid #8A2BE2;margin:16px 0;" />
 
-## 💜 Projects
+<h2 id="projects">💜 Projects</h2>
 
-<div align="center">
-  <details>
-    <summary>Expand to see my projects!</summary>
-    <br/>
-    <a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">
-      <img src="docs/copypasteplus-banner.png" alt="CopyPaste+ banner" width="75%" loading="lazy" style="display:block;margin:0 auto;" />
-    </a>
-    <h3><a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">CopyPaste+</a></h3>
-    <p>
-      Expand copy/paste in Chrome with a history, favorites, and usage counts — all from the toolbar popup.
-    </p>
-    <hr/>
-    <a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">
-      <img src="docs/cosmic-crashout-logo.png" alt="Cosmic Crashout logo" width="75%" loading="lazy" style="display:block;margin:0 auto;" />
-    </a>
-    <h3><a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">Cosmic Crashout</a></h3>
-    <p>
-      An accessible game designed for quadriplegic players using the OpenBCI EEG headset. Built with PVNet Advanced Technology Center.
-    </p>
-    <hr/>
-    <a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">
-      <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="50%" loading="lazy" style="display:block;margin:0 auto;" />
-    </a>
-    <h3><a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">Text Editor</a></h3>
-    <p>
-      A JavaFX learning-focused editor with a custom Document → Paragraph → Word → Character model and a clear render pipeline.
-    </p>
-    <hr/>
-    <a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50%" alt="My Most Followed Followers icon" style="display:block;margin:0 auto;" />
-      </picture>
-    </a>
-    <h3><a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">My Most Followed Followers</a></h3>
-    <p>
-      A project to identify and display your most followed followers on GitHub.
-    </p>
-    <hr/>
-    <a href="https://github.com/Joe-Huber/a-pretty-bad-renderer" target="_blank" rel="noopener noreferrer">
-      <img src="docs/a-pretty-bad-renderer.png" alt="A Pretty Bad Renderer banner" width="75%" loading="lazy" style="display:block;margin:0 auto;" />
-    </a>
-    <h3><a href="https://github.com/Joe-Huber/a-pretty-bad-renderer" target="_blank" rel="noopener noreferrer">A Pretty Bad Renderer</a></h3>
-    <p>
-      A simple image renderer in the terminal built in python.
-    </p>
-  </details>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">
+        <img src="docs/copypasteplus-banner.png" alt="CopyPaste+ banner" width="100%" loading="lazy" />
+        <h3>CopyPaste+</h3>
+      </a>
+      <p>Expand copy/paste in Chrome with a history, favorites, and usage counts — all from the toolbar popup.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">
+        <img src="docs/cosmic-crashout-logo.png" alt="Cosmic Crashout logo" width="100%" loading="lazy" />
+        <h3>Cosmic Crashout</h3>
+      </a>
+      <p>An accessible game designed for quadriplegic players using the OpenBCI EEG headset. Built with PVNet Advanced Technology Center.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">
+        <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="100%" loading="lazy" />
+        <h3>Text Editor</h3>
+      </a>
+      <p>A JavaFX learning-focused editor with a custom Document → Paragraph → Word → Character model and a clear render pipeline.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50%" alt="My Most Followed Followers icon" />
+        </picture>
+        <h3>My Most Followed Followers</h3>
+      </a>
+      <p>A project to identify and display your most followed followers on GitHub.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/a-pretty-bad-renderer" target="_blank" rel="noopener noreferrer">
+        <img src="docs/a-pretty-bad-renderer.png" alt="A Pretty Bad Renderer banner" width="100%" loading="lazy" />
+        <h3>A Pretty Bad Renderer</h3>
+      </a>
+      <p>A simple image renderer in the terminal built in python.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <!-- Placeholder for another project -->
+    </td>
+  </tr>
+</table>
 
 <!-- Pinned repo cards -->
 <div align="center">
