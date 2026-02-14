@@ -338,11 +338,13 @@
       <img alt="Joe Huber's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=Joe-Huber&theme=buefy" />
     </picture>
   </a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=shades-of-purple" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=buefy" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=buefy" height="160" loading="lazy" />
-  </picture>
+  <a href="https://github.com/stats-organization/github-stats-extended" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Joe-Huber&layout=compact&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Joe-Huber&layout=compact&theme=buefy" />
+      <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joe-Huber&layout=compact&theme=buefy" height="160" loading="lazy" />
+    </picture>
+  </a>
   <br/>
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
     <picture>
