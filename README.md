@@ -292,37 +292,37 @@
 <div align="center">
   <a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=shades-of-purple" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=buefy" />
-      <img alt="CopyPaste+ pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=buefy" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=buefy" />
+      <img alt="CopyPaste+ pin" src="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=CopyPastePlus&theme=buefy" />
     </picture>
   </a>
   <a href="https://github.com/moonish1211/Cosmic-Crashout-Public" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=moonish1211&repo=Cosmic-Crashout-Public&theme=shades-of-purple" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=moonish1211&repo=Cosmic-Crashout-Public&theme=buefy" />
-      <img alt="Cosmic Crashout pin" src="https://github-readme-stats.vercel.app/api/pin/?username=moonish1211&repo=Cosmic-Crashout-Public&theme=buefy" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=moonish1211&repo=Cosmic-Crashout-Public&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=moonish1211&repo=Cosmic-Crashout-Public&theme=buefy" />
+      <img alt="Cosmic Crashout pin" src="https://github-stats-extended.vercel.app/api/pin/?username=moonish1211&repo=Cosmic-Crashout-Public&theme=buefy" />
     </picture>
   </a>
   <a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=shades-of-purple" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=buefy" />
-      <img alt="Text Editor pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=buefy" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=buefy" />
+      <img alt="Text Editor pin" src="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Text-Editor&theme=buefy" />
     </picture>
   </a>
   <a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=shades-of-purple" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=buefy" />
-      <img alt="My Most Followed Followers pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=buefy" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=buefy" />
+      <img alt="My Most Followed Followers pin" src="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=my-most-followed-followers&theme=buefy" />
     </picture>
   </a>
   <a href="https://github.com/Joe-Huber/a-pretty-bad-renderer" target="_blank" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=shades-of-purple" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=buefy" />
-      <img alt="A Pretty Bad Renderer pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=buefy" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=buefy" />
+      <img alt="A Pretty Bad Renderer pin" src="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=buefy" />
     </picture>
   </a>
 </div>
@@ -331,16 +331,20 @@
 
 ## 💜 Stats
 <div align="center" id="stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=shades-of-purple" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=buefy" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joe-huber&show_icons=true&theme=buefy" height="160" loading="lazy" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=shades-of-purple" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=buefy" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-huber&layout=compact&theme=buefy" height="160" loading="lazy" />
-  </picture>
+  <a href="https://github.com/stats-organization/github-stats-extended" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Joe-Huber&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Joe-Huber&theme=buefy" />
+      <img alt="Joe Huber's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=Joe-Huber&theme=buefy" />
+    </picture>
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Joe-Huber&layout=compact&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Joe-Huber&layout=compact&theme=buefy" />
+      <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joe-Huber&layout=compact&theme=buefy" height="160" loading="lazy" />
+    </picture>
+  </a>
   <br/>
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
     <picture>
@@ -351,10 +355,9 @@
   </a>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Hube
-r&theme=aura&no-frame=true&row=1&margin-w=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=1&margin-w=12" />
-    <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=1&margin-w=12" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-tawny.vercel.app/?username=Joe-Huber&theme=aura&no-frame=true&row=1&margin-w=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-tawny.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=1&margin-w=12" />
+    <img alt="trophies" src="https://github-profile-trophy-tawny.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=1&margin-w=12" />
   </picture>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joe-Huber&theme=github-compact&custom_title=Contribution%20Graph" alt="activity graph" />
