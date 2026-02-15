@@ -283,7 +283,9 @@
       <p>A simple image renderer in the terminal built in python.</p>
     </td>
     <td align="center" valign="top" width="33%">
-      <!-- Placeholder for another project -->
+      <a href="https://github.com/Joe-Huber?tab=repositories" target="_blank" rel="noopener noreferrer">
+        <h3>See all repositories...</h3>
+      </a>
     </td>
   </tr>
 </table>
