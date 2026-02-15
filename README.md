@@ -257,7 +257,7 @@
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">
-        <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="100%" loading="lazy" />
+        <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="40%" loading="lazy" />
         <h3>Text Editor</h3>
       </a>
       <p>A JavaFX learning-focused editor with a custom Document → Paragraph → Word → Character model and a clear render pipeline.</p>
