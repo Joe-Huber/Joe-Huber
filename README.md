@@ -284,6 +284,7 @@
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/Joe-Huber?tab=repositories" target="_blank" rel="noopener noreferrer">
+        <img src="docs/git-repo-svgrepo-com.svg" width="50%" alt="GitHub icon" />
         <h3>See all repositories...</h3>
       </a>
     </td>
