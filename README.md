@@ -308,6 +308,29 @@
       <p>A simple image renderer in the terminal built in python.</p>
     </td>
     <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/AI-For-Brokies" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/AI%20For%20Brokies-Free%20AI%20Tools-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" width="100%" alt="AI For Brokies badge" />
+        <h3>AI For Brokies</h3>
+      </a>
+      <p>A curated collection of free AI coding tools, tracked in JSON and generated into a README.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/Web-README-Maker" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Web%20README%20Maker-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="100%" alt="Web README Maker badge" />
+        <h3>Web README Maker</h3>
+      </a>
+      <p>A Next.js README builder with Markdown editing and a live deployment on Vercel.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/Overcomplicated-FizzBuzz-Solution" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Overcomplicated%20FizzBuzz-Java-C71A36?style=for-the-badge&logo=openjdk&logoColor=white" width="100%" alt="Overcomplicated FizzBuzz badge" />
+        <h3>Overcomplicated FizzBuzz</h3>
+      </a>
+      <p>A deliberately over-engineered Java FizzBuzz solution with Dockerized CI tests.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/Joe-Huber?tab=repositories" target="_blank" rel="noopener noreferrer">
         <img src="docs/git-repo-svgrepo-com.svg" width="50%" alt="GitHub icon" />
         <h3>See all repositories...</h3>
@@ -351,6 +374,27 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=shades-of-purple" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=buefy" />
       <img alt="A Pretty Bad Renderer pin" src="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=buefy" />
+    </picture>
+  </a>
+  <a href="https://github.com/Joe-Huber/AI-For-Brokies" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=AI-For-Brokies&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=AI-For-Brokies&theme=buefy" />
+      <img alt="AI For Brokies pin" src="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=AI-For-Brokies&theme=buefy" />
+    </picture>
+  </a>
+  <a href="https://github.com/Joe-Huber/Web-README-Maker" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Web-README-Maker&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Web-README-Maker&theme=buefy" />
+      <img alt="Web README Maker pin" src="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Web-README-Maker&theme=buefy" />
+    </picture>
+  </a>
+  <a href="https://github.com/Joe-Huber/Overcomplicated-FizzBuzz-Solution" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Overcomplicated-FizzBuzz-Solution&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Overcomplicated-FizzBuzz-Solution&theme=buefy" />
+      <img alt="Overcomplicated FizzBuzz pin" src="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Overcomplicated-FizzBuzz-Solution&theme=buefy" />
     </picture>
   </a>
 </div>
