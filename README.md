@@ -88,6 +88,9 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="36" alt="CSS3" title="CSS3" /></a>
       <a href="https://racket-lang.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/racket/racket-original.svg" height="36" alt="Racket" title="Racket" /></a>
       <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="26" alt="SQL" title="SQL" /></a>
+      <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="36" alt="Markdown" title="Markdown" /></a>
+      <a href="https://www.json.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=white" height="26" alt="JSON" title="JSON" /></a>
+      <a href="https://yaml.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" height="26" alt="YAML" title="YAML" /></a>
     </td>
   </tr>
   <tr>
@@ -102,6 +105,8 @@
       <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="26" alt="Pandas" title="Pandas" /></a>
       <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="26" alt="NumPy" title="NumPy" /></a>
       <a href="https://www.openapis.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="26" alt="OpenAPI" title="OpenAPI" /></a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+      <a href="https://junit.org/junit5/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="26" alt="JUnit 5" title="JUnit 5" /></a>
     </td>
   </tr>
   <tr>
@@ -122,8 +127,13 @@
       <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" style="height: 36px;" /></picture></a>
+      <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="26" alt="GitHub Actions" title="GitHub Actions" /></a>
       <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" /></a>
       <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" /></a>
+      <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm" title="npm" /></a>
+      <a href="https://maven.apache.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="26" alt="Maven" title="Maven" /></a>
+      <a href="https://webpack.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="36" alt="Webpack" title="Webpack" /></a>
+      <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="36" alt="ESLint" title="ESLint" /></a>
       <a href="https://developer.chrome.com/extensions/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" height="36" alt="Chrome Extensions" title="Chrome Extensions" /></a>
       <a href="https://www.jetbrains.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="36" alt="JetBrains" title="JetBrains" /></a>
     </td>
@@ -146,6 +156,7 @@
       <a href="https://aws.amazon.com/s3/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="26" alt="AWS S3" title="AWS S3" /></a>
       <a href="https://www.snowflake.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="26" alt="Snowflake" title="Snowflake" /></a>
       <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase" title="Supabase" /></a>
+      <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" height="26" alt="Vercel" title="Vercel" /></a>
     </td>
   </tr>
   <tr>
@@ -154,6 +165,7 @@
     </td>
     <td>
       <a href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Claude-111?style=for-the-badge&logo=anthropic&logoColor=white" height="26" alt="Claude" title="Claude" /></a>
+      <a href="https://openai.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="26" alt="OpenAI" title="OpenAI" /></a>
       <a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gemini-0B57D0?style=for-the-badge&logo=googlegemini&logoColor=white" height="26" alt="Gemini" title="Gemini" /></a>
       <a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" height="26" alt="GitHub Copilot" title="GitHub Copilot" /></a>
       <a href="https://cursor.sh/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Cursor-1A1F36?style=for-the-badge&logoColor=white" height="26" alt="Cursor" title="Cursor" /></a>
