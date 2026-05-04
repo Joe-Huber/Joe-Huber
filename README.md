@@ -88,6 +88,9 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="36" alt="CSS3" title="CSS3" /></a>
       <a href="https://racket-lang.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/racket/racket-original.svg" height="36" alt="Racket" title="Racket" /></a>
       <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="26" alt="SQL" title="SQL" /></a>
+      <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="36" alt="Markdown" title="Markdown" /></a>
+      <a href="https://www.json.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=white" height="26" alt="JSON" title="JSON" /></a>
+      <a href="https://yaml.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" height="26" alt="YAML" title="YAML" /></a>
     </td>
   </tr>
   <tr>
@@ -102,6 +105,8 @@
       <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="26" alt="Pandas" title="Pandas" /></a>
       <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="26" alt="NumPy" title="NumPy" /></a>
       <a href="https://www.openapis.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="26" alt="OpenAPI" title="OpenAPI" /></a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+      <a href="https://junit.org/junit5/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="26" alt="JUnit 5" title="JUnit 5" /></a>
     </td>
   </tr>
   <tr>
@@ -122,8 +127,13 @@
       <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" style="height: 36px;" /></picture></a>
+      <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="26" alt="GitHub Actions" title="GitHub Actions" /></a>
       <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" /></a>
       <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" /></a>
+      <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm" title="npm" /></a>
+      <a href="https://maven.apache.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="26" alt="Maven" title="Maven" /></a>
+      <a href="https://webpack.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="36" alt="Webpack" title="Webpack" /></a>
+      <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="36" alt="ESLint" title="ESLint" /></a>
       <a href="https://developer.chrome.com/extensions/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" height="36" alt="Chrome Extensions" title="Chrome Extensions" /></a>
       <a href="https://www.jetbrains.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="36" alt="JetBrains" title="JetBrains" /></a>
     </td>
@@ -146,6 +156,7 @@
       <a href="https://aws.amazon.com/s3/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="26" alt="AWS S3" title="AWS S3" /></a>
       <a href="https://www.snowflake.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="26" alt="Snowflake" title="Snowflake" /></a>
       <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" alt="Supabase" title="Supabase" /></a>
+      <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" height="26" alt="Vercel" title="Vercel" /></a>
     </td>
   </tr>
   <tr>
@@ -154,10 +165,23 @@
     </td>
     <td>
       <a href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Claude-111?style=for-the-badge&logo=anthropic&logoColor=white" height="26" alt="Claude" title="Claude" /></a>
+      <a href="https://openai.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="26" alt="OpenAI" title="OpenAI" /></a>
+      <a href="https://chatgpt.com/codex/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codex-111?style=for-the-badge&logo=openai&logoColor=white" height="26" alt="Codex" title="Codex" /></a>
       <a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gemini-0B57D0?style=for-the-badge&logo=googlegemini&logoColor=white" height="26" alt="Gemini" title="Gemini" /></a>
+      <a href="https://codeassist.google/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gemini%20Code%20Assist-0B57D0?style=for-the-badge&logo=googlegemini&logoColor=white" height="26" alt="Gemini Code Assist" title="Gemini Code Assist" /></a>
       <a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" height="26" alt="GitHub Copilot" title="GitHub Copilot" /></a>
       <a href="https://cursor.sh/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Cursor-1A1F36?style=for-the-badge&logoColor=white" height="26" alt="Cursor" title="Cursor" /></a>
       <a href="https://qodo.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Qodo-8A2BE2?style=for-the-badge" height="26" alt="Qodo" title="Qodo" /></a>
+      <a href="https://github.com/anomalyco/opencode" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenCode-111?style=for-the-badge&logo=github&logoColor=white" height="26" alt="OpenCode" title="OpenCode" /></a>
+      <a href="https://www.jetbrains.com/junie/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Junie-000?style=for-the-badge&logo=jetbrains&logoColor=white" height="26" alt="Junie" title="Junie" /></a>
+      <a href="https://github.com/cline/cline" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Cline-3A3A3A?style=for-the-badge&logo=github&logoColor=white" height="26" alt="Cline" title="Cline" /></a>
+      <a href="https://ollama.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ollama&logoColor=white" height="26" alt="Ollama" title="Ollama" /></a>
+      <a href="https://github.com/continuedev/continue" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Continue-5E5CE6?style=for-the-badge&logo=github&logoColor=white" height="26" alt="Continue" title="Continue" /></a>
+      <a href="https://windsurf.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Windsurf-00B8D9?style=for-the-badge" height="26" alt="Windsurf" title="Windsurf" /></a>
+      <a href="https://zed.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge" height="26" alt="Zed" title="Zed" /></a>
+      <a href="https://github.com/Aider-AI/aider" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Aider-111?style=for-the-badge&logo=github&logoColor=white" height="26" alt="Aider" title="Aider" /></a>
+      <a href="https://kilocode.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kilo%20Code-8A2BE2?style=for-the-badge" height="26" alt="Kilo Code" title="Kilo Code" /></a>
+      <a href="https://aws.amazon.com/codewhisperer/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Amazon%20CodeWhisperer-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="26" alt="Amazon CodeWhisperer" title="Amazon CodeWhisperer" /></a>
     </td>
   </tr>
 </table>
@@ -284,6 +308,29 @@
       <p>A simple image renderer in the terminal built in python.</p>
     </td>
     <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/AI-For-Brokies" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/AI%20For%20Brokies-Free%20AI%20Tools-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" width="100%" alt="AI For Brokies badge" />
+        <h3>AI For Brokies</h3>
+      </a>
+      <p>A curated collection of free AI coding tools, tracked in JSON and generated into a README.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/Web-README-Maker" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Web%20README%20Maker-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="100%" alt="Web README Maker badge" />
+        <h3>Web README Maker</h3>
+      </a>
+      <p>A Next.js README builder with Markdown editing and a live deployment on Vercel.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/Overcomplicated-FizzBuzz-Solution" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Overcomplicated%20FizzBuzz-Java-C71A36?style=for-the-badge&logo=openjdk&logoColor=white" width="100%" alt="Overcomplicated FizzBuzz badge" />
+        <h3>Overcomplicated FizzBuzz</h3>
+      </a>
+      <p>A deliberately over-engineered Java FizzBuzz solution with Dockerized CI tests.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/Joe-Huber?tab=repositories" target="_blank" rel="noopener noreferrer">
         <img src="docs/git-repo-svgrepo-com.svg" width="50%" alt="GitHub icon" />
         <h3>See all repositories...</h3>
@@ -327,6 +374,27 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=shades-of-purple" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=buefy" />
       <img alt="A Pretty Bad Renderer pin" src="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=a-pretty-bad-renderer&theme=buefy" />
+    </picture>
+  </a>
+  <a href="https://github.com/Joe-Huber/AI-For-Brokies" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=AI-For-Brokies&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=AI-For-Brokies&theme=buefy" />
+      <img alt="AI For Brokies pin" src="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=AI-For-Brokies&theme=buefy" />
+    </picture>
+  </a>
+  <a href="https://github.com/Joe-Huber/Web-README-Maker" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Web-README-Maker&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Web-README-Maker&theme=buefy" />
+      <img alt="Web README Maker pin" src="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Web-README-Maker&theme=buefy" />
+    </picture>
+  </a>
+  <a href="https://github.com/Joe-Huber/Overcomplicated-FizzBuzz-Solution" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Overcomplicated-FizzBuzz-Solution&theme=shades-of-purple" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Overcomplicated-FizzBuzz-Solution&theme=buefy" />
+      <img alt="Overcomplicated FizzBuzz pin" src="https://github-stats-extended.vercel.app/api/pin/?username=Joe-Huber&repo=Overcomplicated-FizzBuzz-Solution&theme=buefy" />
     </picture>
   </a>
 </div>
