@@ -166,10 +166,22 @@
     <td>
       <a href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Claude-111?style=for-the-badge&logo=anthropic&logoColor=white" height="26" alt="Claude" title="Claude" /></a>
       <a href="https://openai.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="26" alt="OpenAI" title="OpenAI" /></a>
+      <a href="https://chatgpt.com/codex/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codex-111?style=for-the-badge&logo=openai&logoColor=white" height="26" alt="Codex" title="Codex" /></a>
       <a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gemini-0B57D0?style=for-the-badge&logo=googlegemini&logoColor=white" height="26" alt="Gemini" title="Gemini" /></a>
+      <a href="https://codeassist.google/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gemini%20Code%20Assist-0B57D0?style=for-the-badge&logo=googlegemini&logoColor=white" height="26" alt="Gemini Code Assist" title="Gemini Code Assist" /></a>
       <a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" height="26" alt="GitHub Copilot" title="GitHub Copilot" /></a>
       <a href="https://cursor.sh/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Cursor-1A1F36?style=for-the-badge&logoColor=white" height="26" alt="Cursor" title="Cursor" /></a>
       <a href="https://qodo.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Qodo-8A2BE2?style=for-the-badge" height="26" alt="Qodo" title="Qodo" /></a>
+      <a href="https://github.com/anomalyco/opencode" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenCode-111?style=for-the-badge&logo=github&logoColor=white" height="26" alt="OpenCode" title="OpenCode" /></a>
+      <a href="https://www.jetbrains.com/junie/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Junie-000?style=for-the-badge&logo=jetbrains&logoColor=white" height="26" alt="Junie" title="Junie" /></a>
+      <a href="https://github.com/cline/cline" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Cline-3A3A3A?style=for-the-badge&logo=github&logoColor=white" height="26" alt="Cline" title="Cline" /></a>
+      <a href="https://ollama.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ollama&logoColor=white" height="26" alt="Ollama" title="Ollama" /></a>
+      <a href="https://github.com/continuedev/continue" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Continue-5E5CE6?style=for-the-badge&logo=github&logoColor=white" height="26" alt="Continue" title="Continue" /></a>
+      <a href="https://windsurf.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Windsurf-00B8D9?style=for-the-badge" height="26" alt="Windsurf" title="Windsurf" /></a>
+      <a href="https://zed.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge" height="26" alt="Zed" title="Zed" /></a>
+      <a href="https://github.com/Aider-AI/aider" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Aider-111?style=for-the-badge&logo=github&logoColor=white" height="26" alt="Aider" title="Aider" /></a>
+      <a href="https://kilocode.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kilo%20Code-8A2BE2?style=for-the-badge" height="26" alt="Kilo Code" title="Kilo Code" /></a>
+      <a href="https://aws.amazon.com/codewhisperer/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Amazon%20CodeWhisperer-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="26" alt="Amazon CodeWhisperer" title="Amazon CodeWhisperer" /></a>
     </td>
   </tr>
 </table>
