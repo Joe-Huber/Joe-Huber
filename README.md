@@ -98,6 +98,7 @@
       <strong>Frameworks & Libraries</strong>
     </td>
     <td>
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI" title="FastAPI" /></a>
       <!-- <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring Framework" title="Spring Framework" /></a> -->
       <!-- <a href="https://gradle.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" height="36" alt="Gradle" title="Gradle" /></a> -->
       <a href="https://openjfx.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JavaFX-8A2BE2?style=for-the-badge" height="26" alt="JavaFX" title="JavaFX" /></a>
