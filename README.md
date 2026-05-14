@@ -268,6 +268,13 @@
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/Web-README-Maker" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Web%20README%20Maker-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="100%" alt="Web README Maker badge" />
+        <h3>Web README Maker</h3>
+      </a>
+      <p>A Next.js README builder with Markdown editing and a live deployment on Vercel.</p>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/Joe-Huber/CopyPastePlus" target="_blank" rel="noopener noreferrer">
         <img src="docs/copypasteplus-banner.png" alt="CopyPaste+ banner" width="100%" loading="lazy" />
         <h3>CopyPaste+</h3>
@@ -281,15 +288,15 @@
       </a>
       <p>An accessible game designed for quadriplegic players using the OpenBCI EEG headset. Built with PVNet Advanced Technology Center.</p>
     </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">
-        <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="40%" loading="lazy" />
-        <h3>Text Editor</h3>
-      </a>
-      <p>A JavaFX learning-focused editor with a custom Document → Paragraph → Word → Character model and a clear render pipeline.</p>
-    </td>
   </tr>
   <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/AI-For-Brokies" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/AI%20For%20Brokies-Free%20AI%20Tools-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" width="100%" alt="AI For Brokies badge" />
+        <h3>AI For Brokies</h3>
+      </a>
+      <p>A curated collection of free AI coding tools, tracked in JSON and generated into a README.</p>
+    </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/Joe-Huber/my-most-followed-followers" target="_blank" rel="noopener noreferrer">
         <picture>
@@ -302,27 +309,20 @@
       <p>A project to identify and display your most followed followers on GitHub.</p>
     </td>
     <td align="center" valign="top" width="33%">
+      <a href="https://github.com/Joe-Huber/Text-Editor" target="_blank" rel="noopener noreferrer">
+        <img src="docs/text-editor-logo.png" alt="Text Editor logo" width="40%" loading="lazy" />
+        <h3>Text Editor</h3>
+      </a>
+      <p>A JavaFX learning-focused editor with a custom Document → Paragraph → Word → Character model and a clear render pipeline.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/Joe-Huber/a-pretty-bad-renderer" target="_blank" rel="noopener noreferrer">
         <img src="docs/a-pretty-bad-renderer.png" alt="A Pretty Bad Renderer banner" width="100%" loading="lazy" />
         <h3>A Pretty Bad Renderer</h3>
       </a>
       <p>A simple image renderer in the terminal built in python.</p>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://github.com/Joe-Huber/AI-For-Brokies" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/AI%20For%20Brokies-Free%20AI%20Tools-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" width="100%" alt="AI For Brokies badge" />
-        <h3>AI For Brokies</h3>
-      </a>
-      <p>A curated collection of free AI coding tools, tracked in JSON and generated into a README.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <a href="https://github.com/Joe-Huber/Web-README-Maker" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Web%20README%20Maker-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="100%" alt="Web README Maker badge" />
-        <h3>Web README Maker</h3>
-      </a>
-      <p>A Next.js README builder with Markdown editing and a live deployment on Vercel.</p>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/Joe-Huber/Overcomplicated-FizzBuzz-Solution" target="_blank" rel="noopener noreferrer">
