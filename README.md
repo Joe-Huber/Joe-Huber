@@ -203,7 +203,12 @@
         System1 operates an industry-leading responsive acquisition marketing platform (RAMP) powered by AI and machine learning.
       </p>
       <ul>
+        <li><strong>Role:</strong> DevOps Engineering Intern</li>
+        <li><em>Summer 2026</em></li>
+      </ul>
+      <ul>
         <li><strong>Role:</strong> Quality Assurance Engineering Intern</li>
+        <li><em>Summer 2025</em></li>
       </ul>
     </td>
   </tr>
@@ -220,6 +225,7 @@
       </p>
       <ul>
         <li><strong>Role:</strong> Intern</li>
+        <li><em>Summer 2024</em></li>
       </ul>
     </td>
   </tr>
