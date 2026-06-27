@@ -47,6 +47,7 @@
 
 - Located in Los Angeles & Evanston
 - Second-year student at **Northwestern University**
+- Currently working in DevOps at System1
 
 <hr/>
 
