@@ -434,9 +434,9 @@
   </a>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-tawny.vercel.app/?username=Joe-Huber&theme=aura&no-frame=true&row=1&margin-w=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-tawny.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=1&margin-w=12" />
-    <img alt="trophies" src="https://github-profile-trophy-tawny.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=1&margin-w=12" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Joe-Huber&theme=aura&no-frame=true&row=2&margin-w=12&title=SSSRank,MultiLanguage,LongTimeUser,Commit,Issue,PullRequest,Stars,Followers,Repositories" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=2&margin-w=12&title=SSSRank,MultiLanguage,LongTimeUser,Commit,Issue,PullRequest,Stars,Followers,Repositories" />
+    <img alt="trophies" src="https://github-trophies.vercel.app/?username=Joe-Huber&theme=flat&no-frame=true&row=2&margin-w=12&title=SSSRank,MultiLanguage,LongTimeUser,Commit,Issue,PullRequest,Stars,Followers,Repositories" />
   </picture>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joe-Huber&theme=github-compact&custom_title=Contribution%20Graph" alt="activity graph" />
