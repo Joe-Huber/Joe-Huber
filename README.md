@@ -453,13 +453,13 @@
 
 | Profile | Name | Followers |
 |---|---|---|
-| <img src='https://avatars.githubusercontent.com/u/307791440?v=4' width='30' height='30'> | [shinobi-coder701](https://github.com/shinobi-coder701) | 2700 |
+| <img src='https://avatars.githubusercontent.com/u/307791440?v=4' width='30' height='30'> | [shinobi-coder701](https://github.com/shinobi-coder701) | 3000 |
 | <img src='https://avatars.githubusercontent.com/u/39780?v=4' width='30' height='30'> | [WildGenie](https://github.com/WildGenie) | 857 |
 | <img src='https://avatars.githubusercontent.com/u/138178621?v=4' width='30' height='30'> | [itszubariel](https://github.com/itszubariel) | 14 |
-| <img src='https://avatars.githubusercontent.com/u/60829394?v=4' width='30' height='30'> | [Atri7](https://github.com/Atri7) | 12 |
+| <img src='https://avatars.githubusercontent.com/u/60829394?v=4' width='30' height='30'> | [Atri7](https://github.com/Atri7) | 13 |
 | <img src='https://avatars.githubusercontent.com/u/69405844?v=4' width='30' height='30'> | [James51332](https://github.com/James51332) | 9 |
 
-*Last updated: 2026-09-25 03:46:05 UTC*
+*Last updated: 2026-09-26 03:52:16 UTC*
 <!-- FOLLOWERS_LIST_END -->
 
 > Note: Stats reflect public repositories only. Third-party badges/images may be rate-limited by their providers.
