@@ -453,13 +453,13 @@
 
 | Profile | Name | Followers |
 |---|---|---|
-| <img src='https://avatars.githubusercontent.com/u/43516554?v=4' width='30' height='30'> | [standardgalactic](https://github.com/standardgalactic) | 29600 |
-| <img src='https://avatars.githubusercontent.com/u/307791440?v=4' width='30' height='30'> | [shinobi-coder701](https://github.com/shinobi-coder701) | 3900 |
+| <img src='https://avatars.githubusercontent.com/u/43516554?v=4' width='30' height='30'> | [standardgalactic](https://github.com/standardgalactic) | 29700 |
+| <img src='https://avatars.githubusercontent.com/u/307791440?v=4' width='30' height='30'> | [shinobi-coder701](https://github.com/shinobi-coder701) | 4000 |
 | <img src='https://avatars.githubusercontent.com/u/39780?v=4' width='30' height='30'> | [WildGenie](https://github.com/WildGenie) | 861 |
 | <img src='https://avatars.githubusercontent.com/u/138178621?v=4' width='30' height='30'> | [itszubariel](https://github.com/itszubariel) | 14 |
 | <img src='https://avatars.githubusercontent.com/u/60829394?v=4' width='30' height='30'> | [Atri7](https://github.com/Atri7) | 13 |
 
-*Last updated: 2026-10-05 04:25:28 UTC*
+*Last updated: 2026-10-06 05:12:32 UTC*
 <!-- FOLLOWERS_LIST_END -->
 
 > Note: Stats reflect public repositories only. Third-party badges/images may be rate-limited by their providers.
